@@ -1,0 +1,7 @@
+{
+  "seed": 1112,
+  "pool": "attn4",
+  "bert_unchanged_vs_pretrained": true,
+  "non_bert_params": 166437,
+  "compact_bytes": 677617
+}

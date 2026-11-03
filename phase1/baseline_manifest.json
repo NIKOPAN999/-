@@ -1,0 +1,14 @@
+{
+  "calibration.py": "c43fe7184e0744c87b2b4698eeea82305a5882431412a1746bd144ce10a1d130",
+  "compact_valid_calibrated.csv": "c7c132d527851a717aaa005a058cf8e9806080e4335ad86a00c0e042a303c08a",
+  "data.py": "559bac8e0fb220d21f6f6cb08e02813cb3727ec8106391e8c8205d1600daa5d4",
+  "environment.json": "07e1218067ab9da5b17df216c2e10cf3a24e3d3fec034990ea7be686ddaee39e",
+  "model.py": "82b8653ee8aa650e608abcf078e9f0141adf951c225baa11da1048609215c78c",
+  "requirements.txt": "13fbff2506ceccaeb515366313ed2a0319eaab74814f4fa6cddb1aa12384f6a8",
+  "run.py": "75aa2aa2a70dde53719a460b68728a5489ffae665025abce59d53686922b9f88",
+  "settings.py": "eb0b72253f9393825f60838593ee1603ab1438c1c5f64b526068cbcc79e78b58",
+  "student_compact.pt": "3f0af49bf75b9ae61aed8e7d09cd1a8061ba760a0fc368306ca8156ebadbf8d8",
+  "student_compact_calibration.json": "b6d7523947380b344c1c79b560b7ece41b464dcf72bdb345e7fd57783215898b",
+  "training_conditions.json": "3c2e50cae2599e66e60f3d0d2b9746075ac62c43e43f81cd0397f2ce168184a6",
+  "ulgm.py": "f017adbc72a02bb02705ade999550ee23c4db2e80a7fe469aef36fa09129d1c7"
+}

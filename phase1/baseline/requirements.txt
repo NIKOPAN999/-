@@ -1,0 +1,5 @@
+# Use the CUDA-enabled PyTorch already installed by the chosen AutoDL image.
+numpy==1.26.4
+scikit-learn==1.5.2
+transformers==4.44.2
+safetensors>=0.4.3,<1

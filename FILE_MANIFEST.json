@@ -1,0 +1,2570 @@
+[
+  {
+    "path": "competition/README_总说明.md",
+    "origin": "附件_提交包/README_总说明.md",
+    "sha256": "621a536bc7230979c433f49b841e1b6059b2396ca6d58f42f5e2c3e3d361e6c7",
+    "bytes": 3947
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/README_问题1.md",
+    "origin": "附件_提交包/问题1_词级三模态特征/README_问题1.md",
+    "sha256": "c9fea6216489abc17a98547c2f2bc01c00f475fa91701e6995bee525448a1037",
+    "bytes": 2697
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/附件4_词级时间戳.csv",
+    "origin": "附件_提交包/问题1_词级三模态特征/附件4_词级时间戳.csv",
+    "sha256": "361c7c11c98b6abccc4f9b5ad4466a3877700a91bfbff1d5b0e51b30cbdd5ab3",
+    "bytes": 39359
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/calibration.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/calibration.py",
+    "sha256": "c43fe7184e0744c87b2b4698eeea82305a5882431412a1746bd144ce10a1d130",
+    "bytes": 8832
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/compact_test_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/compact_test_calibrated.csv",
+    "sha256": "1914020c479f5598de67ebe2bf9977a9b34c6bca13e88d9f9c6d4571bef82899",
+    "bytes": 4820
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/compact_valid_calibrated.csv",
+    "sha256": "c7c132d527851a717aaa005a058cf8e9806080e4335ad86a00c0e042a303c08a",
+    "bytes": 4880
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/compact_valid_test_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/compact_valid_test_metrics.csv",
+    "sha256": "a89678e73e95ff2acc5dab7ec0ab4753bb471f7e409a0c4e807011fc0a0fa994",
+    "bytes": 1275
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/data.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/data.py",
+    "sha256": "559bac8e0fb220d21f6f6cb08e02813cb3727ec8106391e8c8205d1600daa5d4",
+    "bytes": 7932
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/environment.json",
+    "sha256": "07e1218067ab9da5b17df216c2e10cf3a24e3d3fec034990ea7be686ddaee39e",
+    "bytes": 264
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/epoch_metrics.csv",
+    "sha256": "b322efab8e63bce41eea502c7c6e0a0bdc571bd5935be9a20026a21e70e645f9",
+    "bytes": 8237
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/export_sample_evidence.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/export_sample_evidence.py",
+    "sha256": "beff05463dd07fdb73ae9dd8ac6b9b1dce6cc73e2c794158411c670179e5efb0",
+    "bytes": 2531
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/model.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/model.py",
+    "sha256": "82b8653ee8aa650e608abcf078e9f0141adf951c225baa11da1048609215c78c",
+    "bytes": 4946
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/README.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/README.md",
+    "sha256": "54dd80dc11f42e87bdf1ce94152d8d0e19e93e998abe9a33a07533e118da3bae",
+    "bytes": 6368
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/requirements.txt",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/requirements.txt",
+    "sha256": "13fbff2506ceccaeb515366313ed2a0319eaab74814f4fa6cddb1aa12384f6a8",
+    "bytes": 154
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/run.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/run.py",
+    "sha256": "75aa2aa2a70dde53719a460b68728a5489ffae665025abce59d53686922b9f88",
+    "bytes": 26112
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/settings.py",
+    "sha256": "eb0b72253f9393825f60838593ee1603ab1438c1c5f64b526068cbcc79e78b58",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/smoke.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/smoke.py",
+    "sha256": "ffc60cc866b98f45445b2817e2bafcb3c846188c128c9b11f154f18c136cadd2",
+    "bytes": 2090
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/student_compact_calibration.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/student_compact_calibration.json",
+    "sha256": "b6d7523947380b344c1c79b560b7ece41b464dcf72bdb345e7fd57783215898b",
+    "bytes": 2721
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/training.jsonl",
+    "sha256": "7679e7b97999ad3ee1b5170718183bec59993d028c7a71586cfd083c33fcb721",
+    "bytes": 15515
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/training_conditions.json",
+    "sha256": "3c2e50cae2599e66e60f3d0d2b9746075ac62c43e43f81cd0397f2ce168184a6",
+    "bytes": 1244
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/ulgm.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/ulgm.py",
+    "sha256": "f017adbc72a02bb02705ade999550ee23c4db2e80a7fe469aef36fa09129d1c7",
+    "bytes": 3141
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/参数与数据规则.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/参数与数据规则.md",
+    "sha256": "03ed173cc30aa8c6fd1fb081ac03fad91deca8cf8e02007c30043f5ac7940e9c",
+    "bytes": 1694
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/01_代码与参数/复现步骤.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/01_代码与参数/复现步骤.md",
+    "sha256": "14de968f517c7451952aa766d97de481a975c8afdef96017b4db7b321738b321",
+    "bytes": 768
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/02_附件3预测结果/附件3_情感极性与强度预测.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/02_附件3预测结果/附件3_情感极性与强度预测.csv",
+    "sha256": "af73305e4688f2eb3c368fc9ca59b558bd9ae100bcbdd7134099c323c308f3b7",
+    "bytes": 986
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/attachment3_reproduced.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/attachment3_reproduced.csv",
+    "sha256": "af73305e4688f2eb3c368fc9ca59b558bd9ae100bcbdd7134099c323c308f3b7",
+    "bytes": 986
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/bootstrap_check.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/bootstrap_check.py",
+    "sha256": "9844d451a4ec6be846b703eee53825933a3a6367346e3cb2c9ee1f2e90588aa9",
+    "bytes": 2305
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/README.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/README.md",
+    "sha256": "6edb7bf42d96c440865d99f2050c830eb2211dc3c2c29587d2f3602870fd229b",
+    "bytes": 3059
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/stress_generalization.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/stress_generalization.py",
+    "sha256": "c7511997f61dfdc1cef8499a32f4b67f70fa0bc17dd91ce02d1f91cb3eb29537",
+    "bytes": 5022
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/test_reproduced.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/test_reproduced.csv",
+    "sha256": "513943ccbe99274d3d5594a8cae0feb4f178f35d70905e09a2dced5475a9d548",
+    "bytes": 4811
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/test_sample_evidence.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/test_sample_evidence.csv",
+    "sha256": "d7e6ebd7cfbd7115ecccbb75d6f64a11a9fc5b6c1c8dffdd108082c0c66d3805",
+    "bytes": 56705
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_generalization_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_generalization_metrics.csv",
+    "sha256": "f0ab7a810ed715de2193c501409f0c7868e3714f3d21644152eff0387ad8ae34",
+    "bytes": 854
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_generalization_samples.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_generalization_samples.csv",
+    "sha256": "b4674ec3af7aa15238620f67237793a92a7b18ae6073c49b7ee41e24d5296c31",
+    "bytes": 88699
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_reproduced.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_reproduced.csv",
+    "sha256": "d101eee70be303f404361b13c2629cf0ef6a81037454f7f0a4bc3f3536411f78",
+    "bytes": 4890
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_sample_evidence.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_sample_evidence.csv",
+    "sha256": "1b04bbfed71737576634b340a82f844102fcf7a29a6c96cc29bdb4b407ab96c1",
+    "bytes": 56439
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_video_bootstrap.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/03_复跑与不确定性证据/valid_video_bootstrap.csv",
+    "sha256": "7c1e76cb25e3b057c3f7579cdf42eeb60e5a32abbb126aca914fbbbc7c2b5329",
+    "bytes": 431
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/comparison_by_seed.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/comparison_by_seed.csv",
+    "sha256": "cc6be59b4f003d68c6ab8ab9fdd42bdb61a40030d2dff8be077383260a6ab096",
+    "bytes": 2361
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/comparison_valid.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/comparison_valid.csv",
+    "sha256": "e9a3d43beab3793cb6831cb4b54411841d4d6aeaf8a5cd4b4acf768146e0c814",
+    "bytes": 930
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/compact_valid_calibrated.csv",
+    "sha256": "72b09f9e671178ab6d722acc0aa113e7730d00fa72e05f25dd01f7f44d732c41",
+    "bytes": 4847
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/epoch_metrics.csv",
+    "sha256": "0ea7c34b83c1dafad5505a4e21eb693110a7f6cf43866e5f9fe15369ff186ea0",
+    "bytes": 8288
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/settings.py",
+    "sha256": "eb0b72253f9393825f60838593ee1603ab1438c1c5f64b526068cbcc79e78b58",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/training.jsonl",
+    "sha256": "539f14ff8aeea534fe4085a166ec0d38a982ab0b022f248be43588556bea2ce6",
+    "bytes": 15568
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s42/training_conditions.json",
+    "sha256": "c61d0c38f6aff9d87fa287b332c0b3ce3726550df23e68bd737e2bfbc289bf33",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/compact_valid_calibrated.csv",
+    "sha256": "1d4d58189c0239ff4336ba65cb3f21c7b56bf258b8eada28d8e809c52fbfe128",
+    "bytes": 4856
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/epoch_metrics.csv",
+    "sha256": "8c501e09f10afb452da3df49608e7e3ef39fa49d39667e93db802c3d28e944c9",
+    "bytes": 8258
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/settings.py",
+    "sha256": "d8b874d1ae88259b9890712c180d066e770294f091b3af368c1e0d6fe032d508",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/training.jsonl",
+    "sha256": "3af51439d97bd90fc048e76b86404aa83c4ea870958802d382deedb004a1855d",
+    "bytes": 15535
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s43/training_conditions.json",
+    "sha256": "4105210f67fb22d5865f830656863a53c76b012484b01cebf45eda6717654fdb",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/compact_valid_calibrated.csv",
+    "sha256": "332cc292a23227eeb6b841b5fa03690f155644f406064982bcd7aee3bab9c35c",
+    "bytes": 4817
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/epoch_metrics.csv",
+    "sha256": "9a0245f8dad6624fba907adde3aada577d86ea197ad540e73ce3945889a3abea",
+    "bytes": 7319
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/settings.py",
+    "sha256": "db1dbd40c3cc610ddd1f58607a78313b966c3eaee09fa0a35d9ff2a8e7e52ded",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/training.jsonl",
+    "sha256": "10b7159547d2a388e3b1f866bacfc4febc9ab500c30fc0374bf93eed889a29da",
+    "bytes": 13791
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/full_s44/training_conditions.json",
+    "sha256": "719890f21dfc2ae3d2ede33467484730dbe386d643d0bc8e5e75449e865b2308",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/compact_valid_calibrated.csv",
+    "sha256": "7795d7e727dfef1d0eb447685bf4eebd0040e6a9534aee94a091a7872787ba3a",
+    "bytes": 4873
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/epoch_metrics.csv",
+    "sha256": "2d67498dd8d2da25e905d077e0dc20f2354957c39f88e5e9e1a3dc48c38601e7",
+    "bytes": 8284
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/settings.py",
+    "sha256": "98075edcb1cd10ac3f61586a5afa45f134d933727a4d1f676ecbf906d77c910a",
+    "bytes": 954
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/training.jsonl",
+    "sha256": "fb9269a6793587480416400a1c6b59a9a70443c9be3805ea8790f88133f80fce",
+    "bytes": 15573
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s42/training_conditions.json",
+    "sha256": "cebc5c72350251aec25aba5327820355c2eea66489681774b9c112810477ab7f",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/compact_valid_calibrated.csv",
+    "sha256": "10fe45f83833c4c16d7edc7770b154a5b80ac530eec8a0f237edde705bb8d1d5",
+    "bytes": 4869
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/epoch_metrics.csv",
+    "sha256": "9d93ac55587aa409f4d04699e1e9293aa218eac72d6ca4cc74fff39864e83c9f",
+    "bytes": 10075
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/settings.py",
+    "sha256": "e8e665b60d4347d2d18c025047e00dafb285409577662fa33274ee3cb20525c5",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/training.jsonl",
+    "sha256": "36cdcb86e82b32593c0d208a5686031c2f24e96e97af0011ceaa552399415351",
+    "bytes": 19005
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s43/training_conditions.json",
+    "sha256": "6cf4c22baf434e4682d21784c8a3b0c2b525ad9e7ba11ff2ed0007910b6221f5",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/compact_valid_calibrated.csv",
+    "sha256": "6ff56b922a18f661e529526ea95cfe873bcddb9f504490b71c457dec86dc8de9",
+    "bytes": 4869
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/epoch_metrics.csv",
+    "sha256": "e71350862350a763190718a036944e5850ded69099628bd8bdd567b107241337",
+    "bytes": 9198
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/settings.py",
+    "sha256": "c2c0170cd7788c88d973029ab13bad957be67f42722b8bcba5b20969c239dcf2",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/training.jsonl",
+    "sha256": "e3f2ea77c590da3579cea4d270b226679a05848075df6a5c3766a06f4b4160f1",
+    "bytes": 17269
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_aux_s44/training_conditions.json",
+    "sha256": "55f88a05cbac4ca87573e04297c9d820ee466378247d1dc62064e4638753fb1a",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/compact_valid_calibrated.csv",
+    "sha256": "45f27251d3c9e77acace7ee8f478a99b907312dec6bc43b53cacdd1c68ace9e5",
+    "bytes": 4809
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/epoch_metrics.csv",
+    "sha256": "5205f66be2b6e4d4dcd3141ef7770083f116103e4eb0cbf6acb5a5db16537afc",
+    "bytes": 5538
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/settings.py",
+    "sha256": "bdf43b8d219390768744daaaea7c26de3963169b3c7c00d604cca36121066daf",
+    "bytes": 953
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/training.jsonl",
+    "sha256": "e5c18a67535b78406fb0244514d009e528ccb365ef4e0613cf18b4134896556b",
+    "bytes": 10344
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s42/training_conditions.json",
+    "sha256": "88840f7b2b66d200fa72bf913527e945d428ec9b52678f04b0e11b52429f4dc5",
+    "bytes": 1293
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/compact_valid_calibrated.csv",
+    "sha256": "ba78cfaa1c2d849da07fc11b0850d936133af2d3dc91de9a62a2203c9579a4de",
+    "bytes": 4877
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/epoch_metrics.csv",
+    "sha256": "3315abb6d23a0dbe7b5c0f9132104b055eeca4adbc97f60f24d9f962eb4fac3f",
+    "bytes": 6449
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/settings.py",
+    "sha256": "830bab14aa5714b3aba8a07c5244cd6f595cf0cbc36655ff7c0e0242dda261ee",
+    "bytes": 950
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/training.jsonl",
+    "sha256": "83cdde900b9df8889920c39972c15be992aac03f563cd2afa89a059c03c0185a",
+    "bytes": 12039
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s43/training_conditions.json",
+    "sha256": "e663a3c289b7e5da1ff3d34ef0ae1a7355fa8bfb0719e3b334ad9c9a00ebe392",
+    "bytes": 1293
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/compact_valid_calibrated.csv",
+    "sha256": "a56ed987d8a84f3f2ffb7524552d41444061c075a20ceda5208099f91fc5a73d",
+    "bytes": 4881
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/epoch_metrics.csv",
+    "sha256": "ebefc1307d7676e6ebe2af0cff789d235ba192ccbf4d46d0db830a457c599311",
+    "bytes": 12898
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/settings.py",
+    "sha256": "a0cae8b8388e5ff46543606930064cbd1f9bf596a4b2c0a0f6c6e405e1303fcb",
+    "bytes": 950
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/training.jsonl",
+    "sha256": "fd2f86178e32a3777a1207207b5c4e22739273235dc97ea747e984a77ad5c221",
+    "bytes": 24176
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/no_mask_s44/training_conditions.json",
+    "sha256": "8b6d032aadab999a61f8fe2ce45c1ef4b8c81f638a72dfbf9899cafb61932c67",
+    "bytes": 1293
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/plot_ablation.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/plot_ablation.py",
+    "sha256": "717c48cd8ee483fb5d4273685b912844a6e77813edacae90eedf3c4a11803ebc",
+    "bytes": 3608
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/README.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/README.md",
+    "sha256": "5f7aa38f213979844027f0f761b9321712d891a9474f447c065fa343baa533b9",
+    "bytes": 3427
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/summarize.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/summarize.py",
+    "sha256": "ba262ad08390bfe9c526f4aef4d3d44e2c401da3dbeb227fe16ecbc3a3233dcf",
+    "bytes": 1169
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/04_关键消融复跑/summary_by_seed.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/04_关键消融复跑/summary_by_seed.py",
+    "sha256": "2c717fb15668a2cad72f08609f491f5d49dab604979a7c37083a75a2256d4f78",
+    "bytes": 1790
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/att3_missing_stats.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/att3_missing_stats.json",
+    "sha256": "d1fc0904727411a24f23f6449a1718f3e6373fe50b908ef6c148e5dde20a8330",
+    "bytes": 762
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/clean_raw_outputs.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/clean_raw_outputs.csv",
+    "sha256": "716e41eeebbf8f93e08a0353722fd716b5e3e64154806dcca859019b831e877a",
+    "bytes": 103687
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/dose_response.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/dose_response.csv",
+    "sha256": "cca6313da8c61bc4ea946df07d0d3c642f0b9216098347c4be3068d806e47f54",
+    "bytes": 8114
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/pattern_scatter_vs_block.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/pattern_scatter_vs_block.csv",
+    "sha256": "9449ff6d4b8f1c8f62d281741a05d302541d6d310b9dfd2057400f5bc6a13ecf",
+    "bytes": 6936
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/summary.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/frozen/summary.json",
+    "sha256": "2d22d7bd839de57ed6293eca259dc86e33218a0d586ffaa32b830e554eb6bf89",
+    "bytes": 250
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/README.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/README.md",
+    "sha256": "c0b2d19742823a4427340ad64599f44aa94a0726fc582b97e4d547c34484b9ec",
+    "bytes": 1536
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/scripts/frozen_analysis.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/scripts/frozen_analysis.py",
+    "sha256": "7d33362c47ce08d05ad46c6ef7eb01ab46c8ec57d1a613e26dafd9c4b900ed68",
+    "bytes": 8022
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/scripts/variant_runs.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/scripts/variant_runs.py",
+    "sha256": "32863ac602669b2b4c62d2857d77b7f382437233587658fba1c73028eda7944f",
+    "bytes": 3540
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/compact_valid_calibrated.csv",
+    "sha256": "e08f27b0ba2bc9b7b3f98591d86b8aa3dd7d1e11a183a7d74c274609a942c4d3",
+    "bytes": 4877
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/epoch_metrics.csv",
+    "sha256": "00187f7ef88e570ada565008be1cc5e8b4f7e1cb0702e92772dcec9ceddbbf53",
+    "bytes": 7356
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/model_variant.py",
+    "sha256": "a7cdc9ecae0af3d7b2716152546beb53ada4affdebe4d97256517d38c6954e4b",
+    "bytes": 4985
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/settings.py",
+    "sha256": "eb0b72253f9393825f60838593ee1603ab1438c1c5f64b526068cbcc79e78b58",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/training.jsonl",
+    "sha256": "7db27f3ab230ad20dffeaf9612606c1c6132d5e58b5427e4493f978185d70741",
+    "bytes": 13836
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s42/training_conditions.json",
+    "sha256": "c61d0c38f6aff9d87fa287b332c0b3ce3726550df23e68bd737e2bfbc289bf33",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/compact_valid_calibrated.csv",
+    "sha256": "d4a3fc678fe00e660d7ba2dfd45ed2628fc383e1f672e5b4a5c61b352ab0fcbe",
+    "bytes": 4878
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/epoch_metrics.csv",
+    "sha256": "715204b017d0af6f63d687e366401e2f537f0a8936b66ee776266f5114c030ea",
+    "bytes": 8246
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/model_variant.py",
+    "sha256": "a7cdc9ecae0af3d7b2716152546beb53ada4affdebe4d97256517d38c6954e4b",
+    "bytes": 4985
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/settings.py",
+    "sha256": "d8b874d1ae88259b9890712c180d066e770294f091b3af368c1e0d6fe032d508",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/training.jsonl",
+    "sha256": "2d88109f16dc4ccd8100c96d827c0cabade3657cba32f86f864a6964126bd5dd",
+    "bytes": 15526
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s43/training_conditions.json",
+    "sha256": "4105210f67fb22d5865f830656863a53c76b012484b01cebf45eda6717654fdb",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/compact_valid_calibrated.csv",
+    "sha256": "399f232c4c9e6f98ddccd22de508f0a8f69b2e41494e9621b916c6b798e48438",
+    "bytes": 4847
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/epoch_metrics.csv",
+    "sha256": "86409536ef6037cac96d69921877aca3fc73972448f16083d624270febf388be",
+    "bytes": 7341
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/model_variant.py",
+    "sha256": "a7cdc9ecae0af3d7b2716152546beb53ada4affdebe4d97256517d38c6954e4b",
+    "bytes": 4985
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/settings.py",
+    "sha256": "db1dbd40c3cc610ddd1f58607a78313b966c3eaee09fa0a35d9ff2a8e7e52ded",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/training.jsonl",
+    "sha256": "f0dd9a3472ed49d201407a0477d41a6a7239a62579c072be87bec9d6fb703109",
+    "bytes": 13828
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_coverage_s44/training_conditions.json",
+    "sha256": "719890f21dfc2ae3d2ede33467484730dbe386d643d0bc8e5e75449e865b2308",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/compact_valid_calibrated.csv",
+    "sha256": "5ad9c321ae895c4ec37ec79855e759f046231332306f2b2a9ac76aecee20aa16",
+    "bytes": 4823
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/epoch_metrics.csv",
+    "sha256": "14619ac3c3dc1a9a43127c7f14049b57aeccdaa679d48f2640ea3a905b075d52",
+    "bytes": 5499
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/model_variant.py",
+    "sha256": "c3ddfa8a31665f3f9c6971a92d29c0533f3cceeca2227cff59b02f8c284c6452",
+    "bytes": 4984
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/settings.py",
+    "sha256": "eb0b72253f9393825f60838593ee1603ab1438c1c5f64b526068cbcc79e78b58",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/training.jsonl",
+    "sha256": "90c8c9640061fe026d00b31332e194cc4763a74a0db6df7beed344ab67a76087",
+    "bytes": 10316
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s42/training_conditions.json",
+    "sha256": "c61d0c38f6aff9d87fa287b332c0b3ce3726550df23e68bd737e2bfbc289bf33",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/compact_valid_calibrated.csv",
+    "sha256": "6b3dd0bf7d4171ea136988c4bd1ccf0ad9acd415d1af78d3073ba7b090f7549c",
+    "bytes": 4848
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/epoch_metrics.csv",
+    "sha256": "ab5e7ec47a143bf5f2b60c6d0e88c1a32ce1fb0e580cb02d2cc936b4c474f922",
+    "bytes": 9144
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/model_variant.py",
+    "sha256": "c3ddfa8a31665f3f9c6971a92d29c0533f3cceeca2227cff59b02f8c284c6452",
+    "bytes": 4984
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/settings.py",
+    "sha256": "d8b874d1ae88259b9890712c180d066e770294f091b3af368c1e0d6fe032d508",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/training.jsonl",
+    "sha256": "ad12fa994d6d59d948e813bb8c2cc99b0525cf96950338c4c77b3869ee490089",
+    "bytes": 17258
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s43/training_conditions.json",
+    "sha256": "4105210f67fb22d5865f830656863a53c76b012484b01cebf45eda6717654fdb",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/compact_valid_calibrated.csv",
+    "sha256": "fdb8698a9da58dd1420f2744933714c48c10c34c8f7d84a3f207f754c370e4fc",
+    "bytes": 4815
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/epoch_metrics.csv",
+    "sha256": "cbb1c9c82956084fb0039736a59b9cb01b573af1c9428a5fa9067fbaa0fbb9aa",
+    "bytes": 7329
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/model_variant.py",
+    "sha256": "c3ddfa8a31665f3f9c6971a92d29c0533f3cceeca2227cff59b02f8c284c6452",
+    "bytes": 4984
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/settings.py",
+    "sha256": "db1dbd40c3cc610ddd1f58607a78313b966c3eaee09fa0a35d9ff2a8e7e52ded",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/training.jsonl",
+    "sha256": "abd041dbbf0692ec7cc9473aaba8ede499b267300cbc2f90bdb1e210cb12d75c",
+    "bytes": 13770
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/no_obsflag_s44/training_conditions.json",
+    "sha256": "719890f21dfc2ae3d2ede33467484730dbe386d643d0bc8e5e75449e865b2308",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/compact_valid_calibrated.csv",
+    "sha256": "07f0f50f0d4be2b98aecdc82265128b594ab129d09522e9937d231b85bb1e3c3",
+    "bytes": 4898
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/epoch_metrics.csv",
+    "sha256": "2909ff836a747b4554206f3b525a541d518088ce8196d761101367d4835734ec",
+    "bytes": 8294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/model_variant.py",
+    "sha256": "da7775afffd132669646d46b2b834f4e199df5a579a75a7960a63196bd8f9516",
+    "bytes": 5034
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/settings.py",
+    "sha256": "eb0b72253f9393825f60838593ee1603ab1438c1c5f64b526068cbcc79e78b58",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/training.jsonl",
+    "sha256": "92715278b81d3f87038ff437b238b09c311272f6c87e60c6e2059bfe9371ce42",
+    "bytes": 15519
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s42/training_conditions.json",
+    "sha256": "c61d0c38f6aff9d87fa287b332c0b3ce3726550df23e68bd737e2bfbc289bf33",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/compact_valid_calibrated.csv",
+    "sha256": "23e89a3ff22db9ec89d8129c7d8f0faf15a1fd4a33bc10f5f25f2fa07fb5c3dd",
+    "bytes": 4828
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/epoch_metrics.csv",
+    "sha256": "188e07713022b4965b9329d0556cbda172ae401d75f41c51279ffce382c0f97f",
+    "bytes": 8192
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/model_variant.py",
+    "sha256": "da7775afffd132669646d46b2b834f4e199df5a579a75a7960a63196bd8f9516",
+    "bytes": 5034
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/settings.py",
+    "sha256": "d8b874d1ae88259b9890712c180d066e770294f091b3af368c1e0d6fe032d508",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/training.jsonl",
+    "sha256": "9d1798c4f2af5628ea330a5a8b8a9d3e997e6ce1f0b4356a2656b2c9a42175bd",
+    "bytes": 15467
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s43/training_conditions.json",
+    "sha256": "4105210f67fb22d5865f830656863a53c76b012484b01cebf45eda6717654fdb",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/compact_valid_calibrated.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/compact_valid_calibrated.csv",
+    "sha256": "5916a9ea4ec70bd491c5e9e5dbf64750fc7575fcf6fc4b83d504e5f773460d35",
+    "bytes": 4883
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/environment.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/environment.json",
+    "sha256": "d1232156b57eb29e24ca08e46b94bb05b547cf88f03034c4972021862d54a161",
+    "bytes": 267
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/epoch_metrics.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/epoch_metrics.csv",
+    "sha256": "82dc647f88b035dd7871d54d7cfbc3bb5e355ee5f0f162a46f775c79c6c56118",
+    "bytes": 7382
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/model_variant.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/model_variant.py",
+    "sha256": "da7775afffd132669646d46b2b834f4e199df5a579a75a7960a63196bd8f9516",
+    "bytes": 5034
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/settings.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/settings.py",
+    "sha256": "db1dbd40c3cc610ddd1f58607a78313b966c3eaee09fa0a35d9ff2a8e7e52ded",
+    "bytes": 951
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/training.jsonl",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/training.jsonl",
+    "sha256": "42fb0595972c8be9b2b11003fc612e5b55dd0d9a76a939569c0d42d58f3cd218",
+    "bytes": 13842
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/training_conditions.json",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/05_缺失规律与输入变体补充实验/variants/text_only_s44/training_conditions.json",
+    "sha256": "719890f21dfc2ae3d2ede33467484730dbe386d643d0bc8e5e75449e865b2308",
+    "bytes": 1294
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/06_基线对比实验/e214_views.csv",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/06_基线对比实验/e214_views.csv",
+    "sha256": "cd861026bbf778e773372005497e22d66b27c3424fe9c33f0094949f9e9599a8",
+    "bytes": 8386
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/06_基线对比实验/predict_mmsa_views.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/06_基线对比实验/predict_mmsa_views.py",
+    "sha256": "7feb9df3b89e36d499a7f28e3cf494717b48221f1862ce0d97585eb05ab2d7ed",
+    "bytes": 4407
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/06_基线对比实验/predict_team_views.py",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/06_基线对比实验/predict_team_views.py",
+    "sha256": "4b49672312aa433a5e2052c545c99a9f0ca6c017fd0cd431d31fc76bec383484",
+    "bytes": 3592
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/06_基线对比实验/README.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/06_基线对比实验/README.md",
+    "sha256": "7e941dcbf021d69aaa4f30d325a9e0a260f96258eca8c9d8faaffc77a49a17de",
+    "bytes": 2142
+  },
+  {
+    "path": "competition/问题2_鲁棒预测模型/README_问题2.md",
+    "origin": "附件_提交包/问题2_鲁棒预测模型/README_问题2.md",
+    "sha256": "62d7825e1505526a3b5d775139094dbd8fedaa7c4145640a7318318f107ff6d2",
+    "bytes": 2757
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/q3_compare_贡献定义对比.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/q3_compare_贡献定义对比.py",
+    "sha256": "af7346c1f3552935f28700253662b8f3569b93b16d9b35acaf6efaa03d0080ea",
+    "bytes": 4375
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/README_问题3.md",
+    "origin": "附件_提交包/问题3_可解释预测模型/README_问题3.md",
+    "sha256": "b9a20fe22ffbc688721695ef031214d1a038a146af94680da1580150cd784f4d",
+    "bytes": 7806
+  },
+  {
+    "path": "competition/附件3_预测结果.csv",
+    "origin": "附件_提交包/附件3_预测结果.csv",
+    "sha256": "af73305e4688f2eb3c368fc9ca59b558bd9ae100bcbdd7134099c323c308f3b7",
+    "bytes": 986
+  },
+  {
+    "path": "competition/附件4_预测与解释结果.csv",
+    "origin": "附件_提交包/附件4_预测与解释结果.csv",
+    "sha256": "e68299cd5ef09d81b4b4f25deafddc0f224df3c6f6626fc06084dc2c880c9f1e",
+    "bytes": 7368
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/README.txt",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!README.txt",
+    "sha256": "c1d8fc506e2d0cf9f7cf1074229133c18fbb5739cb6c5677620063d2e08c196d",
+    "bytes": 2213
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/aggregate_v2.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/aggregate_v2.py",
+    "sha256": "01c14911d455324bc3d2787cec8eb5528046462faded5e1345709f563db70bdb",
+    "bytes": 16205
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/mfa_full.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/mfa_full.py",
+    "sha256": "4f4b534dc7fb114781b7cff4af0c9b586748af9ec538c8ef40698baecc66cbff",
+    "bytes": 3872
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/asr_check.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/asr_check.py",
+    "sha256": "aec5e71bdfb089fce5b4bbe04fe6f1c12bb3d597abcaeca4be2b17dd68503118",
+    "bytes": 5091
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/compare_runs.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/compare_runs.py",
+    "sha256": "39ea49946c54a04263dfce8f71a323879938097b464cec8cd4b9879efecc6f88",
+    "bytes": 3798
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/openface_quality.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/openface_quality.py",
+    "sha256": "be6e6dc243367926fd52861e6c0d4a83544e6bcec939af7e1f2d228b139cfffb",
+    "bytes": 5235
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/export_att2_format.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/export_att2_format.py",
+    "sha256": "a7b4e3936eb04ae562082b5c659a62ce0667aa26bcc8936287e972ad2ae2ed90",
+    "bytes": 4843
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/team_repro.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/team_repro.sh",
+    "sha256": "16fdcb61fd50318e3487c5d8cd08c8ebee59be2785e29fa143e44b9d71117081",
+    "bytes": 1216
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/q1_features_v2_source/code/q1_revision_analysis.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/q1_features_v2.zip!code/q1_revision_analysis.py",
+    "sha256": "e461cb2cea5be1c9fe2876c5e8f3b40b8b5547c5d991e45777ca18a0d714839c",
+    "bytes": 28588
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/environment/mfa-conda-explicit.txt",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!environment/mfa-conda-explicit.txt",
+    "sha256": "115ac84ba4cf07d3031b3eef3262ecb79d4f5e6d732e2528a3fa6bb8c06a79d3",
+    "bytes": 30711
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/environment/mfa-pip-lock.txt",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!environment/mfa-pip-lock.txt",
+    "sha256": "be0a48dd2a2191b977ae995d80a3e13c7b04d8c34ec047440e58a9f23cf68057",
+    "bytes": 6806
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/environment/q1-package-versions.json",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!environment/q1-package-versions.json",
+    "sha256": "4a3d5201d28222773224ceee5351a0c084133ab1ffb8afcb835ad5af65ecf5bf",
+    "bytes": 9841
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/reports/Q1_METHOD_AND_OUTPUTS.md",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!reports/Q1_METHOD_AND_OUTPUTS.md",
+    "sha256": "31e868883dee4c2adb9a189099f35483c6265e0afc4d168100e7df0d2866eecd",
+    "bytes": 4462
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/reports/Q1_visual_review.md",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!reports/Q1_visual_review.md",
+    "sha256": "b42e269d865bef5f392bf0a3aa14e20b0a1d2b5512a054c0367412950412f050",
+    "bytes": 1364
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/TEAM_RUNBOOK.md",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/TEAM_RUNBOOK.md",
+    "sha256": "4d39a3b954b406c61b66f8f63a48401a324a33a9f70d5794fbfc27c7656db0ad",
+    "bytes": 4222
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/configs/local.json",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/configs/local.json",
+    "sha256": "5502e93337cbab10a3313936e14e1b25df01dce9542840be0fa8a1616601f001",
+    "bytes": 997
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/__init__.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/__init__.py",
+    "sha256": "c5956bbce759ccabadd4feee702be371498b999fa510896db1f2ab4714b339d9",
+    "bytes": 88
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/__main__.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/__main__.py",
+    "sha256": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+    "bytes": 48
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/aligners.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/aligners.py",
+    "sha256": "5ac57074277244e1e34fdce474ac04e8642fce95c92b5a6852805f4a9ae5f79c",
+    "bytes": 3339
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/cli.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/cli.py",
+    "sha256": "f5523030fedd6588c4f64ee37d3be12631b238f318aecae1d63fbdf6efb0e4ff",
+    "bytes": 21289
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/core.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/core.py",
+    "sha256": "16f42b431e87a68d597724887852c1d96a8aa3fb68c3c3d495e1a4e6d591f64f",
+    "bytes": 9429
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/features.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/features.py",
+    "sha256": "1e5c57c8eedb4e255740e3cdd47d2ff2a00c21436804c002e20ea71198b7b593",
+    "bytes": 10098
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/media.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/media.py",
+    "sha256": "8be00f8838f1b772e44aa5580fed3bb04e0969223814b7a35effe3f8ce0dffe8",
+    "bytes": 5326
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/q1/report.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/q1/report.py",
+    "sha256": "4ceb0f264cdf597d519738ea7856a9b8da05ebeff8a103642df4d56be5292391",
+    "bytes": 6654
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/requirements-server.txt",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/requirements-server.txt",
+    "sha256": "fb5d2c9273549f99c49b0dc2443dd63fc2d276c46b4755b62e931cf11e6e5dff",
+    "bytes": 499
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/almt_smoke.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/almt_smoke.py",
+    "sha256": "0b4d8e9a37af849a1d79c03e067cbc61c3f86dee52c3218f1b2d820537670d9a",
+    "bytes": 1550
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/att4_word_times.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/att4_word_times.py",
+    "sha256": "7cae1973ec455c2f7fa0a413ad0580fb00e753b2e7aac7907df3796c8c5dbba0",
+    "bytes": 5037
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/audit_features.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/audit_features.py",
+    "sha256": "edc64dc1aeee38526992dc7a8b327603989363a87c725954e98216e0745892c6",
+    "bytes": 3374
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/bootstrap_features.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/bootstrap_features.sh",
+    "sha256": "b822318d21bd03f0b50ab7c4141d881ee8b0128948433e6626afa3502d2b44f1",
+    "bytes": 711
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/bootstrap_mfa.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/bootstrap_mfa.sh",
+    "sha256": "2248ac49032ada458c05ef10cec2135cd98a812112402702bec381df247630b6",
+    "bytes": 603
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/bootstrap_openface.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/bootstrap_openface.sh",
+    "sha256": "b694d8dce0a0ccaa5a4206a62383d908fd330cc89a5250901cd92be38f0097b0",
+    "bytes": 748
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/export_q1_evidence.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/export_q1_evidence.py",
+    "sha256": "3b10126ae4286129a3581e550e8769efda0e001d48046fdc401963ca1f298827",
+    "bytes": 3563
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/package_research_outputs.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/package_research_outputs.py",
+    "sha256": "e1405f9a4b3aa9a1fc9815728dad5fbc2daebb22e32264faa395eddd26faa229",
+    "bytes": 1516
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/pilot_ctc_diagnostic.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/pilot_ctc_diagnostic.py",
+    "sha256": "74cd0f2940e8ea1f1f797a9080e67c3b451f36222aec5c9f5556ee512c87a18d",
+    "bytes": 1238
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/predict_almt.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/predict_almt.py",
+    "sha256": "ff1c2e0547add25748f986d7783f97b2aa47b3eaa156f96d54b9f28c7fa19c8c",
+    "bytes": 1778
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/q1_figures.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/q1_figures.py",
+    "sha256": "3ca88248f7dabfffd5db0bdcdcb907eb0958dca1f58e0db3c1e7c5a3ae0193bd",
+    "bytes": 1656
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/quality_contact_sheet.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/quality_contact_sheet.py",
+    "sha256": "232c453f290ca582a0ea8706fa37fbe954b8f02d882999ec8b88061b3d7dce22",
+    "bytes": 1675
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/record_e1.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/record_e1.py",
+    "sha256": "1580f7e2a6d01d0ed17a19d5d2bdbbdefe4a3bded4dbdbfa1258fcf8f70494b7",
+    "bytes": 2387
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/summarize_e1.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/summarize_e1.py",
+    "sha256": "b421a19bc4868c09022b9fc1c2abe6e093c499acfc5331c44e8be39f25dda1b7",
+    "bytes": 1874
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_att4.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_att4.sh",
+    "sha256": "0b3cfc084d5145f033eddffb586c184f3b29348aed456462b104547b58c4a57f",
+    "bytes": 562
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_compare.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_compare.sh",
+    "sha256": "1776fbd81dae5cd70f6865047bf09259f057866621e35d8d908c308faec33959",
+    "bytes": 387
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_e1_almt.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_e1_almt.sh",
+    "sha256": "38592e6a0e762356b0b8d73d592b8b6be83d83b205d045720f985c4abc143eb1",
+    "bytes": 503
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_e1_misa.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_e1_misa.sh",
+    "sha256": "3078f446b45e9b660abb53aef310d51e6a920f84cfbeb289d7ffd475b10ea665",
+    "bytes": 471
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_e1_mult.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_e1_mult.sh",
+    "sha256": "c6fd9b0908da2f5e0156782c65d91e4f6eb34a351abe350070418459083b916c",
+    "bytes": 471
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_e1_self_mm.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_e1_self_mm.sh",
+    "sha256": "b256a57ba398e0fb4bbeb97587c3d6dd549c0fc7a31378f1c2f437c796e3f33d",
+    "bytes": 458
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_extract.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_extract.sh",
+    "sha256": "451347ca71f0aa34f37162c21a926ab8886958e1f4839574c8ec5d07f6abcf97",
+    "bytes": 764
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_finalize.sh",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_finalize.sh",
+    "sha256": "bccd4f2be9c07623f0e29670ae6e0f5416178d1626fc5e7cfcecd844aa60c1a4",
+    "bytes": 584
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/source/scripts/team_report.py",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!source/scripts/team_report.py",
+    "sha256": "e03c73ede49112510e9af72cc0b26e1711a6a39a688de8e936b8682bab20585c",
+    "bytes": 7131
+  },
+  {
+    "path": "competition/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760_source/README.txt",
+    "origin": "附件_提交包/问题1_词级三模态特征/Q1_reproduction_evidence_e2051fa495cb1760.zip!README.txt",
+    "sha256": "e99bb3f1f2f645fafb39bbdcda44572f670b7b9f07ae79908f9636d8e4dac269",
+    "bytes": 402
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/README.md",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!README.md",
+    "sha256": "5f917d3c806902e32c1e4c82f9901aea6de385a75129c97cef1d191f264c980d",
+    "bytes": 7202
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/results/attachment4_predictions_explanations.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!results/attachment4_predictions_explanations.csv",
+    "sha256": "e68299cd5ef09d81b4b4f25deafddc0f224df3c6f6626fc06084dc2c880c9f1e",
+    "bytes": 7368
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/results/q3_numbers.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!results/q3_numbers.json",
+    "sha256": "cb97ff7809508bc313bf1fe9876d31c475d0e63261918ba7e9aa0a3b0e91e503",
+    "bytes": 33584
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q1/exp/Q1-3_att4_word_times/tables/att4_word_times.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q1/exp/Q1-3_att4_word_times/tables/att4_word_times.csv",
+    "sha256": "361c7c11c98b6abccc4f9b5ad4466a3877700a91bfbff1d5b0e51b30cbdd5ab3",
+    "bytes": 39359
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/code/attribution.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/code/attribution.py",
+    "sha256": "434ea2fd79852b15d053b4a54a8a340ce6a06863b6cf9704b32645cf6a457469",
+    "bytes": 15012
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/code/light_common.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/code/light_common.py",
+    "sha256": "413bf243c5638d9a2a9eaed47a7677ea85b83eb1b58cd118389898558d39664c",
+    "bytes": 6969
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/code/parse_log.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/code/parse_log.py",
+    "sha256": "88b4cf6fd785d59bc162a836eca6385c0799d5277a2d0973cf2a860c7da31de5",
+    "bytes": 754
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/code/run_chain.sh",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/code/run_chain.sh",
+    "sha256": "09d036428ea613d11507bfa34885caa23b7d91654622603c665f6f65aab282a4",
+    "bytes": 411
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/code/subset_head.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/code/subset_head.py",
+    "sha256": "0a753dbb9e2cf6011bede6eb4fcbcef69440a4a44367b7f305b9a7b9215a03e3",
+    "bytes": 10179
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/code/train_light.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/code/train_light.py",
+    "sha256": "99afa07bac2bfc0e733f832fe253c3e87eaf38d58e08b739c7a919d6e2cc4bbd",
+    "bytes": 2336
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/compact_info.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/compact_info.json",
+    "sha256": "32fda18599047ab3762da4b75193efab172123c9ca55daa0bc006fc1b6c8462e",
+    "bytes": 133
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/override.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/override.json",
+    "sha256": "bcad59437fe9c4ad5e570f5ac53886cd6117ddb5ed88516f2851ed56e69d9102",
+    "bytes": 170
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/att4.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/att4.csv",
+    "sha256": "c0dfdd1b0608775b6cffa353b636267960c3c937d31544a72d9939ff4ba48642",
+    "bytes": 4767
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/test.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/test.csv",
+    "sha256": "96f06b6a3fcaeb4d9026966b49fee1371433bf28f311da6e2ce9ee9d2f75bf1d",
+    "bytes": 181137
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/valid.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/valid.csv",
+    "sha256": "f30a12686b0e7b2882577554cef1e1ef675c420017ace18dd1433bda5049b13b",
+    "bytes": 181784
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/subset_head.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/subset_head.json",
+    "sha256": "08d4602bdb2099cc540edad116e08d72663d0e95e67bdbd4e8817eb6f82ebd1e",
+    "bytes": 933
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/compact_info.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/compact_info.json",
+    "sha256": "a931d84ed04cc61486c60009d15f1b00106208a668630a8505ba992f84c418cd",
+    "bytes": 133
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/override.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/override.json",
+    "sha256": "543348422160de82d990bb0b920b5898e0a3b8c26b03e0df89274f8bef0c7cc7",
+    "bytes": 170
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/att4.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/att4.csv",
+    "sha256": "5913137622e6d4c00468c3c65f704fd454a29a3f788399d3d4946d007cf51b7a",
+    "bytes": 4841
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/test.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/test.csv",
+    "sha256": "da1a5d73fcc4b9bbe2307097b077d3fdd871a9e6449a9db73a710bfe86a11e74",
+    "bytes": 183553
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/valid.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/valid.csv",
+    "sha256": "28eaf52f36f1d2aa6116b9c32da91883c3e9d7eb10275cf364484905867dca90",
+    "bytes": 184301
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/subset_head.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/subset_head.json",
+    "sha256": "8a9c76c2dd01fb8a10185ae875c2963d84c1a0df6c638565958d85f97dcb4b15",
+    "bytes": 932
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/compact_info.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/compact_info.json",
+    "sha256": "d784efbc46a85ced56c99e96b4ad241fd85612b38bcf0edf63cc2c949343f70c",
+    "bytes": 133
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/override.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/override.json",
+    "sha256": "d6cbd91115bb39d7e3863c4d0dfa9a09a8da62c04cd6e5ceacf5e515c4f2fa85",
+    "bytes": 170
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/att4.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/att4.csv",
+    "sha256": "135551e243828f13f2d399924bc70bda7f59d5cabf6ec79308a0de9f0dc36ad6",
+    "bytes": 4765
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/test.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/test.csv",
+    "sha256": "3fdee1d6ba0b42a1667cdc2e6b9b9e911bc1edbc90f10ccdce4843fc3af74501",
+    "bytes": 181317
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/valid.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/valid.csv",
+    "sha256": "a5a185d108cd65ae184530b6088091653ef9681a7d810345d41e885b9d6c4dd2",
+    "bytes": 181958
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/subset_head.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/subset_head.json",
+    "sha256": "3eed7d506343ff524eac491d21d1f0df06647f968c6e1de9e7cc72514dfdb38d",
+    "bytes": 932
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/tables/attn4/att4_evidence.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/tables/attn4/att4_evidence.csv",
+    "sha256": "9c99c63d9dcab336ce0bf2fb3ba995a639d049249731598b13c52e0083df99e9",
+    "bytes": 11321
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/tables/attn4/att4_ig_positions.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/tables/attn4/att4_ig_positions.csv",
+    "sha256": "6462957c878ac2cf3073ed657bc4e2cf7c9973243bd4d69e4e0539b5612fef73",
+    "bytes": 88633
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/tables/attn4/attribution_summary.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/tables/attn4/attribution_summary.json",
+    "sha256": "743d1dd63e3a60e4d8b458aa7adae7d95a527679492a13f8404cc830f21c756e",
+    "bytes": 5866
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/q3/exp/E3-25_frozen_bert_light/tables/attn4/valid_deletion_100.csv",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/q3/exp/E3-25_frozen_bert_light/tables/attn4/valid_deletion_100.csv",
+    "sha256": "c64280ac80551817a90a8ad295ea661f973541ca10550a84a9a089d5c8acaa50",
+    "bytes": 22107
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/shared/baselines/common/convert_to_mmsa.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/shared/baselines/common/convert_to_mmsa.py",
+    "sha256": "4c473657161c9304655acd87c4556e2f335b9769004bb2c05e0f30edb9b6939a",
+    "bytes": 9983
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/shared/baselines/common/metrics.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/shared/baselines/common/metrics.py",
+    "sha256": "d0dca0323ef202d5d632ef83ea81100c87123662e2d811fae8fb7c0b758232a0",
+    "bytes": 3286
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/shared/baselines/common/missing.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/shared/baselines/common/missing.py",
+    "sha256": "e5ed8a1c630c0ceae3af3d2e84e8cfdd8b14636410fba8ce4dd03c530545c0c4",
+    "bytes": 4231
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/shared/baselines/common/model_api.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/shared/baselines/common/model_api.py",
+    "sha256": "684671faeabd04edfb1c75d4de4ec03983bfa4ee76c1b46dd1e23699641f4928",
+    "bytes": 3430
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/shared/baselines/common/test_common.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/shared/baselines/common/test_common.py",
+    "sha256": "9a8c3c724cdf6e9776e833ce2e839c38828b6a73bc03e965f4334c82ffd8c157",
+    "bytes": 3127
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/team/shared/baselines/configs/mmsa/config_regression_att2.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!team/shared/baselines/configs/mmsa/config_regression_att2.json",
+    "sha256": "5a273bd2618ea65b394d1c5bbfa68345bbc82098cfcd7124fc255dd3f0244ec6",
+    "bytes": 49469
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/tools/q3_analysis.py",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!tools/q3_analysis.py",
+    "sha256": "741612e257d5dabb940c4eafce816e61da5d7ad5a71684d5663c36aaab471677",
+    "bytes": 28727
+  },
+  {
+    "path": "competition/问题3_可解释预测模型/问题三_可解释预测_可复现包_source/MANIFEST_SHA256.json",
+    "origin": "附件_提交包/问题3_可解释预测模型/问题三_可解释预测_可复现包.zip!MANIFEST_SHA256.json",
+    "sha256": "502c3605aa826c58535c47dc4984c317ece818956c78587688b689a4a674bc6f",
+    "bytes": 21565
+  },
+  {
+    "path": "phase1/analyze_completed.py",
+    "origin": "phase1/analyze_completed.py",
+    "sha256": "839e949613cb59bc207b7a1c90628a8f7cb47222a86e76b52df9cc583740d184",
+    "bytes": 6562
+  },
+  {
+    "path": "phase1/analyze_pilot.py",
+    "origin": "phase1/analyze_pilot.py",
+    "sha256": "8fe346252007e60d5d4a5236c879ae3f48119b14f0d31c7212c99336093ace6a",
+    "bytes": 2760
+  },
+  {
+    "path": "phase1/baseline/calibration.py",
+    "origin": "phase1/baseline/calibration.py",
+    "sha256": "c43fe7184e0744c87b2b4698eeea82305a5882431412a1746bd144ce10a1d130",
+    "bytes": 8832
+  },
+  {
+    "path": "phase1/baseline/compact_valid_calibrated.csv",
+    "origin": "phase1/baseline/compact_valid_calibrated.csv",
+    "sha256": "c7c132d527851a717aaa005a058cf8e9806080e4335ad86a00c0e042a303c08a",
+    "bytes": 4880
+  },
+  {
+    "path": "phase1/baseline/data.py",
+    "origin": "phase1/baseline/data.py",
+    "sha256": "559bac8e0fb220d21f6f6cb08e02813cb3727ec8106391e8c8205d1600daa5d4",
+    "bytes": 7932
+  },
+  {
+    "path": "phase1/baseline/environment.json",
+    "origin": "phase1/baseline/environment.json",
+    "sha256": "07e1218067ab9da5b17df216c2e10cf3a24e3d3fec034990ea7be686ddaee39e",
+    "bytes": 264
+  },
+  {
+    "path": "phase1/baseline/model.py",
+    "origin": "phase1/baseline/model.py",
+    "sha256": "82b8653ee8aa650e608abcf078e9f0141adf951c225baa11da1048609215c78c",
+    "bytes": 4946
+  },
+  {
+    "path": "phase1/baseline/requirements.txt",
+    "origin": "phase1/baseline/requirements.txt",
+    "sha256": "13fbff2506ceccaeb515366313ed2a0319eaab74814f4fa6cddb1aa12384f6a8",
+    "bytes": 154
+  },
+  {
+    "path": "phase1/baseline/run.py",
+    "origin": "phase1/baseline/run.py",
+    "sha256": "75aa2aa2a70dde53719a460b68728a5489ffae665025abce59d53686922b9f88",
+    "bytes": 26112
+  },
+  {
+    "path": "phase1/baseline/settings.py",
+    "origin": "phase1/baseline/settings.py",
+    "sha256": "eb0b72253f9393825f60838593ee1603ab1438c1c5f64b526068cbcc79e78b58",
+    "bytes": 951
+  },
+  {
+    "path": "phase1/baseline/student_compact_calibration.json",
+    "origin": "phase1/baseline/student_compact_calibration.json",
+    "sha256": "b6d7523947380b344c1c79b560b7ece41b464dcf72bdb345e7fd57783215898b",
+    "bytes": 2721
+  },
+  {
+    "path": "phase1/baseline/training_conditions.json",
+    "origin": "phase1/baseline/training_conditions.json",
+    "sha256": "3c2e50cae2599e66e60f3d0d2b9746075ac62c43e43f81cd0397f2ce168184a6",
+    "bytes": 1244
+  },
+  {
+    "path": "phase1/baseline/ulgm.py",
+    "origin": "phase1/baseline/ulgm.py",
+    "sha256": "f017adbc72a02bb02705ade999550ee23c4db2e80a7fe469aef36fa09129d1c7",
+    "bytes": 3141
+  },
+  {
+    "path": "phase1/baseline_manifest.json",
+    "origin": "phase1/baseline_manifest.json",
+    "sha256": "31c08e1172e294efd2728a4ab2d3ece4a3130e7d5f4108adfdded275f2ab7507",
+    "bytes": 1090
+  },
+  {
+    "path": "phase1/dataset_io.py",
+    "origin": "phase1/dataset_io.py",
+    "sha256": "1ca692378d77e7309c570c434421c458cbbb078fa12b00f9c76c21eef9b9635a",
+    "bytes": 6078
+  },
+  {
+    "path": "phase1/download_assets.py",
+    "origin": "phase1/download_assets.py",
+    "sha256": "a40b49dfa5bb177e5d4dae42bf585ba80a24f763777f7b4e6eff9159c1a25e9f",
+    "bytes": 3404
+  },
+  {
+    "path": "phase1/phase1.py",
+    "origin": "phase1/phase1.py",
+    "sha256": "cf21844edd587fdd956ccccf9e4c699c601d1820b745599214bd297b72322011",
+    "bytes": 21611
+  },
+  {
+    "path": "phase1/pooling_model.py",
+    "origin": "phase1/pooling_model.py",
+    "sha256": "0c33f3223593be6e5699fc9d8a394fc77617dce5f88751ce4aa598f2956ff89c",
+    "bytes": 3326
+  },
+  {
+    "path": "phase1/README_第一阶段.md",
+    "origin": "phase1/README_第一阶段.md",
+    "sha256": "8ba17f889b04c837412fa41f9c062dfec22bb22a33751fcd4d272c174f246c7f",
+    "bytes": 7466
+  },
+  {
+    "path": "phase1/requirements.txt",
+    "origin": "phase1/requirements.txt",
+    "sha256": "41bdc70318bac75c3d0dd2748c738af29965252507df860e143d99e9289b2227",
+    "bytes": 161
+  },
+  {
+    "path": "phase1/restore_delta.py",
+    "origin": "phase1/restore_delta.py",
+    "sha256": "ac67fe93fbf31e9563343fa5fbba217584936228264612ffe11bccc8df263e0a",
+    "bytes": 1784
+  },
+  {
+    "path": "phase1/run_stage.py",
+    "origin": "phase1/run_stage.py",
+    "sha256": "a3ce2d2e9b7f398dd13a11b8907615523de2e0f01645674fde5c64dd7fd08911",
+    "bytes": 3910
+  },
+  {
+    "path": "phase1/test_phase1.py",
+    "origin": "phase1/test_phase1.py",
+    "sha256": "a8a4373483cb9bea0e0ab82824251a2fffed998211dd86802d33ad149f4bcd42",
+    "bytes": 7677
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s42/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s42/calibration.json",
+    "sha256": "3344a26166a583abcf588c1c1b169e31bae17ab8d9bf9bc41f17e9474d25bb89",
+    "bytes": 2700
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s42/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s42/config.json",
+    "sha256": "15e81951dcb2838a4fcf971038dc318bcc16940c88cad2b30a927ab57c250a4a",
+    "bytes": 586
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "253686cebe17649b1c92f913c2ba40c04ced4e60dec33e99c91281f3df669ebd",
+    "bytes": 1512
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s42/diagnostics/metrics.csv",
+    "sha256": "6db2ac3dc46dd3425404494f6a0a7879b18ab07983dc240a3a2a4d4345dd2e90",
+    "bytes": 10763
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s42/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s42/epochs.jsonl",
+    "sha256": "7fce570ac3e19690a9cf3fee8d506d84cf53acfc1ea4005d5f88d74d0cd5dca6",
+    "bytes": 16123
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s42/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s42/training_complete.json",
+    "sha256": "0aff3fee2dd9cb8447f5c5d29ee727a910d0de000f6edc9c7ec567b62984cd84",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s43/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s43/calibration.json",
+    "sha256": "508ba0d64771a95849d4dc3f98272a403e813d9426a5c2a1c7975629e45efc1f",
+    "bytes": 2689
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s43/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s43/config.json",
+    "sha256": "e78b8d676b8116884c9517d412d3f09b4bda362c9c02c88d2a4c08f9b2df9e6d",
+    "bytes": 586
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "08f500d660b11b7dda8923aea9441e2944f5c849fdad6bc1f2b1525a66660cd7",
+    "bytes": 1512
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s43/diagnostics/metrics.csv",
+    "sha256": "590ef7a8972347f57d75ff22bb8cc12980841146d0870f715142d60cda3fc1c8",
+    "bytes": 10703
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s43/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s43/epochs.jsonl",
+    "sha256": "5290404f14738b7b84b4cc0ba9159cc6ab3ed18f51319bdfeb7452f37adf7c28",
+    "bytes": 19696
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s43/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s43/training_complete.json",
+    "sha256": "b354be7fbe816bc3180e5292a4bedb11ccba95a308e89a7713d29e253afc5bc3",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s44/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s44/calibration.json",
+    "sha256": "8db1122b2be2e2f76f9ea1c7fe6799fe7a0725c4643eb2ffa1d4f0753219579d",
+    "bytes": 2679
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s44/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s44/config.json",
+    "sha256": "baf70eb4d78cbbfdd89b1c0b6dc00a86f528593d84980734e02518eb07421729",
+    "bytes": 586
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "df4a4244d3a119abfcf59929d63c522623b4613b0da7683bcea41ef9f38a53ba",
+    "bytes": 1511
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s44/diagnostics/metrics.csv",
+    "sha256": "af42d3958e74b01858d07be780d05579eddc511f89f8d24999bfcfddabadee99",
+    "bytes": 10839
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s44/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s44/epochs.jsonl",
+    "sha256": "b938a9aa838b87eb73119d5f2f5dc4f0ed5a6722e09142ce9b2e8a230cdd0d9b",
+    "bytes": 12568
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/attention_s44/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/attention_s44/training_complete.json",
+    "sha256": "63df343d8a87def89e198424bb009d41149f1ab9651396ccde993021e8971999",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s42/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s42/calibration.json",
+    "sha256": "b8314a95b0149794a89e5081c8befc7d90c413bf9748462f1f3129ec0712716b",
+    "bytes": 2718
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s42/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s42/config.json",
+    "sha256": "eb146368f74c5d5961c06f4fbc954724626e6a91238f46a409f2c9977ab26982",
+    "bytes": 581
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "ceaccde451bd71ec1cce0099b99f76139a45d8829865de243a9133305bdf69b3",
+    "bytes": 1503
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/last_s42/diagnostics/metrics.csv",
+    "sha256": "693ca827db3b492947d21fdaffddd817568c135f8060c3186e88484e62628452",
+    "bytes": 10719
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s42/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/last_s42/epochs.jsonl",
+    "sha256": "98cce4fb52118fcbff1d8f5d25dc29b4ed3711454d485f7dabf520d5294d3dea",
+    "bytes": 17939
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s42/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s42/training_complete.json",
+    "sha256": "46f899bae47d27898288db4452fe89a707f07d3a4bacf482691685e5522cd0cd",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s43/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s43/calibration.json",
+    "sha256": "4918ed754a514f6e6f97857b6a4dca12650449ad14248a7a14857bdedc95b32a",
+    "bytes": 2715
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s43/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s43/config.json",
+    "sha256": "62d04adeda8b304790897ca00c96f57577e239bcf4481a40ab19c2d0a6cd595a",
+    "bytes": 581
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "7b593f1205be1a128546816cf2efa2b79770021e2f3d21b140f944f2aaadf2a2",
+    "bytes": 1503
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/last_s43/diagnostics/metrics.csv",
+    "sha256": "421494f3d1b2485f695f0cf910d336631f57f1b93a136bac983a538fa29f8906",
+    "bytes": 10762
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s43/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/last_s43/epochs.jsonl",
+    "sha256": "549723aed5c8a94fea2f35ec2cfff23acab65033e04a0b74c2c4ba270ec729f6",
+    "bytes": 17805
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s43/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s43/training_complete.json",
+    "sha256": "b894404e78ea036eb3a7602f62860146e873793725024205f8a7a7848782aafe",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s44/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s44/calibration.json",
+    "sha256": "df66d6da782b6b23697ba86cb5272f853d7955f2b4901e0307431f5713de6113",
+    "bytes": 2714
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s44/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s44/config.json",
+    "sha256": "7c03e42d9e33fc9b86cdcecc403717892ebc046d2aa22d510f0a827a9ebd6a03",
+    "bytes": 581
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "e813d2de9cc24f8189435aa9aeedce97ad110899158e5cbd77a335b095d0d58c",
+    "bytes": 1502
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/last_s44/diagnostics/metrics.csv",
+    "sha256": "5574eab2bd818710f29b48985df7e070df537b90d3481cc39f6816fbb3c7b094",
+    "bytes": 10748
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s44/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/last_s44/epochs.jsonl",
+    "sha256": "080f387741b3d89c5edae7ad595ee7603669a31c19b1becc60076c74e843a897",
+    "bytes": 14348
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/last_s44/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/last_s44/training_complete.json",
+    "sha256": "ee1f0926540d6fefc90720b12e491cfa8494656450dbb47b2d1f3ea3e1f8e020",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s42/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s42/calibration.json",
+    "sha256": "fdcc6b0b40b9c2f3d7e23643348e5d684a14e74de56f9a32b71a07bafc15f73a",
+    "bytes": 2720
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s42/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s42/config.json",
+    "sha256": "7a14d8657f879dd94814a02b059a07bb4666db52ff2c398889068c876729bfc7",
+    "bytes": 581
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "bf007e7f128a972f067f59267d8fbb8e56f008d26a8fcd1f8ea288e5931fb9cc",
+    "bytes": 1503
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s42/diagnostics/metrics.csv",
+    "sha256": "62f8ac3003e787d2d313763c1c5506c6b323569f9a283573dc3c7f18cf8bd68f",
+    "bytes": 10776
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s42/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s42/epochs.jsonl",
+    "sha256": "a11cfe93569c6a74930a587352254bd974b2919ad6e214a6e6462c2f6b667684",
+    "bytes": 17882
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s42/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s42/training_complete.json",
+    "sha256": "cf6b90ee933b53e6c69bbd09c7954d1e5a63ce1a92604ffabd3b2ca7a13f50f5",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s43/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s43/calibration.json",
+    "sha256": "1171c2263329bb51f70f119d3b910115d33464402b33636aec77421495e893e6",
+    "bytes": 2712
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s43/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s43/config.json",
+    "sha256": "9643404d8ade433c582c05a7335bc43a1bd84966866ab47891ef284159a1fa45",
+    "bytes": 581
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "cb0155233fe63bf03af815d1bc1a83dc7602aa4412f389d9a2f62af31f9a2d07",
+    "bytes": 1503
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s43/diagnostics/metrics.csv",
+    "sha256": "b553f752a0fc5477374fe63d3bd6ec69eee73780d14beda6f3560a3bb933b6a8",
+    "bytes": 10796
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s43/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s43/epochs.jsonl",
+    "sha256": "fbeaae06cb2c093bde7fbc58396ab979827580b77b1fcc8c1fc2d19e80c95920",
+    "bytes": 19704
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s43/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s43/training_complete.json",
+    "sha256": "83b0d1d7a86deb7459fcff5378045d9550f1b86dbaaade7c13e0a4600e1234a3",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s44/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s44/calibration.json",
+    "sha256": "c7951bd063bcea8853baa34d01a240ea5d2c89ab8c881e7bdb51825d854668d3",
+    "bytes": 2700
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s44/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s44/config.json",
+    "sha256": "974b689fc3c58398c0a42513cf26688855756ce75686b455543e8366885312f1",
+    "bytes": 581
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "fe887517ee82b91a865bec04f523506a7f743412889feb2bac18b89ec0b7a51d",
+    "bytes": 1503
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s44/diagnostics/metrics.csv",
+    "sha256": "0cbba5825453c436e764d0e2490907ad87341b1c801febeb9f3c3ae9589b1f2e",
+    "bytes": 10781
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s44/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s44/epochs.jsonl",
+    "sha256": "28dca8e3dae2e66ff5c8865eb99b60f634fa40c13b9140cce619bfcda036849b",
+    "bytes": 17856
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/mean_s44/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/mean_s44/training_complete.json",
+    "sha256": "de1918db29058ce1b1271501a6e2ffa03b039c76d628bd250d77aac467bfa73b",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s42/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s42/calibration.json",
+    "sha256": "82ec4ef545e90775daa883bbec4721ae69b3c64872b2d8471eb8c6443098172a",
+    "bytes": 2714
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s42/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s42/config.json",
+    "sha256": "357335ad6794734621707b06d6dfb852b40e3c8d91e9c4ea05b2591f25d7d512",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "609ce7f9ab8eb5646ef08b541ea42710b4249610c48b35c1c16a579354e88a8b",
+    "bytes": 1507
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s42/diagnostics/metrics.csv",
+    "sha256": "ceed6eb4ffa60d5d7f4588653a2d01f9b20c5b1d27f2c3663db01d8203e457bc",
+    "bytes": 10060
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s42/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s42/epochs.jsonl",
+    "sha256": "e14e94d84762fadd58836a971c24757de633b0476dc3b281baf3c189b33df174",
+    "bytes": 16064
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s42/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s42/training_complete.json",
+    "sha256": "d54b0f73a557d84c6583752efc07ab762315f852ca1bd4be004055a677caf82a",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s43/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s43/calibration.json",
+    "sha256": "80cdf318fb76b97d7a1a9f371eccb71a6ab83f9be1473fa94d5a090aee2e24e5",
+    "bytes": 2707
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s43/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s43/config.json",
+    "sha256": "4b85f79c96df23f8df6c1ef12f5a057055d666f41e48ea5401e71ba158a73ddc",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "f5111ed4ef78ddea7721f7f9e0310c28fbdc5f0fdea954ef00b7665deb6589dc",
+    "bytes": 1507
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s43/diagnostics/metrics.csv",
+    "sha256": "b31afc8c0410c390fda8de2dbb986fee60cd237b0c38c87d27cf75480825eb77",
+    "bytes": 9951
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s43/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s43/epochs.jsonl",
+    "sha256": "1d9acb5716cba35390722b4ed7d24664491a31926f1146204fd5851a59432c77",
+    "bytes": 16116
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s43/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s43/training_complete.json",
+    "sha256": "1e6b6fa625571168653f2cbe24621f3210551c5fcf7cddc2d3921106647b2a72",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s44/calibration.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s44/calibration.json",
+    "sha256": "7f97a1f5d8f47a0966dea1f979b362dc64372d23c72246bee99e1f43a1a30708",
+    "bytes": 2715
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s44/config.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s44/config.json",
+    "sha256": "58caf5eeb882fe5b0953be865039926fe5895f0e97c3ae25fa568ac9c975cf75",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "bc49c8bde2b575e92cdc29a7a4868129c3695a021260d88baff43cbaf938062b",
+    "bytes": 1507
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s44/diagnostics/metrics.csv",
+    "sha256": "6bdc70c41efe192903046072fca6434ca71edd9feb580b27e75aaf819181b4c7",
+    "bytes": 10035
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s44/epochs.jsonl",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s44/epochs.jsonl",
+    "sha256": "e303ab6054e43dd27f9aabd692bf4fdeab6dfc6fdcdece7af97fd990761c1fdb",
+    "bytes": 14344
+  },
+  {
+    "path": "results/phase1/contest_v1/runs/text_only_s44/training_complete.json",
+    "origin": "phase1_results/final/contest_v1/runs/text_only_s44/training_complete.json",
+    "sha256": "9f7fe4d611f50873aed1ce2c7f9a8cc681f6fac5ee473e1aa44123b5f1462548",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s42/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s42/calibration.json",
+    "sha256": "21b4a1f4efdfdb6206b51c1b492af2ee1fb84d929630b2ecbea297e89015570f",
+    "bytes": 2711
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s42/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s42/config.json",
+    "sha256": "7845e9e0f813a618295e1c78c286a3ddc48b6f7238cca047974e2416b9838c77",
+    "bytes": 585
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "4d1b2adf2c2efa9fae66ceb706db590075b388798fe625200fabd6eb06fc4158",
+    "bytes": 1509
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s42/diagnostics/metrics.csv",
+    "sha256": "1f0c34771f05530a2d7de1570039e94e8a0a8d1e00e946362ad5289f14e5e1a1",
+    "bytes": 9822
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s42/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s42/epochs.jsonl",
+    "sha256": "f82103ed8b5ffcba991cc74952932c14f8142e0a9bf7a2f8a6ba1e69cd7e8594",
+    "bytes": 13557
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s42/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s42/training_complete.json",
+    "sha256": "e93b34f0bf6027396955720522facb473c8e187fc0f8b41ab0ba312fa4695f3c",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s43/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s43/calibration.json",
+    "sha256": "4abda86c692ce7a65993a5da01d5b569dae1e3ee502a316875e8d64895084963",
+    "bytes": 2672
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s43/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s43/config.json",
+    "sha256": "309956aee811f1c146030b15e23c8fcf23dc159143df4489d74031664e252439",
+    "bytes": 585
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "3b0446c5d1c0aa4a5e4210821ed13343ef76fbeb98ba2fe64946039045d60e83",
+    "bytes": 1508
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s43/diagnostics/metrics.csv",
+    "sha256": "7e6780eb64420637eb096090dab0fda23115e8ce0d95944f34211eb932f0c136",
+    "bytes": 10121
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s43/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s43/epochs.jsonl",
+    "sha256": "07ceeda6cd53ae646079fd7e9b7a7941e57e3d57f42b2c4b503f945811a37a5f",
+    "bytes": 13591
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s43/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s43/training_complete.json",
+    "sha256": "24dc062a3f2029d80707b6a0f3eccbb4c77442dab3a589b97b571f66fd3ea679",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s44/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s44/calibration.json",
+    "sha256": "cb04cb7de1071bb0ce6565e6cc3d9557e14d6fd986550f1e66fb9e6d6c1f614a",
+    "bytes": 2691
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s44/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s44/config.json",
+    "sha256": "4561776a789759136b09117e472f4ce54c4d089571b2f7cf2df345f78aa618b9",
+    "bytes": 585
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "a1dcc23ed8cf18f20024847666dfcf8e873f80ad5d5f31b4d9fe4c5e6e9bcc9f",
+    "bytes": 1509
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s44/diagnostics/metrics.csv",
+    "sha256": "78b7af074194fa466b98b3c7aaae2c5926868e8af0efe6bb5d762619a52cfb72",
+    "bytes": 10044
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s44/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s44/epochs.jsonl",
+    "sha256": "9507ff3944b196fe67b0af8d751dd141acf623c631938d3375bffc39e9a7162d",
+    "bytes": 15263
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/attention_s44/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/attention_s44/training_complete.json",
+    "sha256": "cdf236fc4d40f3809470aad1bb9a025e8fd28a66c1971810e8b29d31040e2c31",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s42/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s42/calibration.json",
+    "sha256": "1c404425123a7ab30376fcbc6076e11d04b1c5cbf60ededbcd66f0d3ec34852a",
+    "bytes": 2679
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s42/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s42/config.json",
+    "sha256": "7416107b62f4d463f9247c8b37c1a9ac3dee47c8acf2660e61f100b721b717b4",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "48990a477aeace6dda5da67986a7f8f4fb7dce384c3535a5285226092cb97190",
+    "bytes": 1499
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s42/diagnostics/metrics.csv",
+    "sha256": "84d4bd77fd2fb5888c1373f20d2c456ba82aa91bcde80602d171bc9cbca7bc98",
+    "bytes": 10024
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s42/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s42/epochs.jsonl",
+    "sha256": "fe7bf4218da6283f6cffd20d31f833cb5ded613dd02744c2f76a7d517de4c36f",
+    "bytes": 15314
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s42/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s42/training_complete.json",
+    "sha256": "fd84a04da67c1438dc695034b9c5f7f5b99e592fe1439cd262f3ca03787cfee3",
+    "bytes": 182
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s43/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s43/calibration.json",
+    "sha256": "eefc370bc448ada8ec056ebec414c8c45b25d4dcdd3e3385d14cf9b7f1dec503",
+    "bytes": 2720
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s43/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s43/config.json",
+    "sha256": "6c22af1dc21ac665c3b2447eb8d57a4e8cdb39ba37dd3104f70487453c280c61",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "154e38e5fb280416576b2aa27cb63b55c545be972a83576d04ece1635e491b33",
+    "bytes": 1498
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s43/diagnostics/metrics.csv",
+    "sha256": "13fcdd91e489d5bd410705dff4f8a882e2371e0f447868deb097ebcbd8200d66",
+    "bytes": 10120
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s43/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s43/epochs.jsonl",
+    "sha256": "07c6a6a85be529ec545dd7c6008f32a20b0883837962d4b02166b25d98bd502c",
+    "bytes": 11842
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s43/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s43/training_complete.json",
+    "sha256": "fe4bccb67a0b8c5849e8f0f90cbca7f647224d4bcffe60cac3b37323bae24706",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s44/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s44/calibration.json",
+    "sha256": "c3f17025caae61ee132c76aae5fa9204148208b855c42311168390d8f7d1a73c",
+    "bytes": 2721
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s44/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s44/config.json",
+    "sha256": "e12758d805c3c688ef5a9aceaed26adf8189eef7ce45942d96b8e4151c14f6c3",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "39ee40d125203aaa1f2da0e91a7e90d7566f11a43a6652257bea90a92749e9e1",
+    "bytes": 1499
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s44/diagnostics/metrics.csv",
+    "sha256": "9cd157654d7e820975ca7c19b5f3c674b1fe8b741f42177fe14b6ca36524ad68",
+    "bytes": 10102
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s44/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s44/epochs.jsonl",
+    "sha256": "4d2303f60e131aa3b8414e5b6be3f32badaf401daa469bb20c48833546027a49",
+    "bytes": 16955
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/last_s44/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/last_s44/training_complete.json",
+    "sha256": "b277f9d9b116858d099db975f593c6209f9f43bc98b051ec4e52692fb0a6a564",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s42/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s42/calibration.json",
+    "sha256": "d4b53441dd3f1960405ec15ece3f6fa52f4cb2b329c84b3f6b610457023b7bda",
+    "bytes": 2687
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s42/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s42/config.json",
+    "sha256": "fb7ea7d62a7ffed89716ab3ca547c5ffc54262178d2635fc522490b5ac994686",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "9d50688a5e3d52706967d9ffdc5c53830522fbc46b8b7771bb0e68c9ffe7fd15",
+    "bytes": 1499
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s42/diagnostics/metrics.csv",
+    "sha256": "bf465a362d8be1638c2fb03660e8f61c4bd834004fa1f49331c3563976b910ed",
+    "bytes": 9988
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s42/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s42/epochs.jsonl",
+    "sha256": "dbd3be5ce6e5a42e16f1d665b54122610480b65b5075449a17433afff0183d06",
+    "bytes": 15335
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s42/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s42/training_complete.json",
+    "sha256": "e607825861aac70ba31e7c7ad68d881f301852bcfeddd675460d811a6c9253a2",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s43/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s43/calibration.json",
+    "sha256": "f4c5fd3ae097655b460ea1b2bfc5e5d35093f126f87a99e618fcbc32cdc6f050",
+    "bytes": 2683
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s43/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s43/config.json",
+    "sha256": "9804f00d2a843465d948184c5cfc90500b722fc4611e51d14b437147a1d55409",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "131bf7fde30c9207f979db91ab657e839f3a50037c90b5acd639f5b385e7e18f",
+    "bytes": 1496
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s43/diagnostics/metrics.csv",
+    "sha256": "80c631034c1c488e5a7da96d466640522467c30ccb6d95e27b403230690a208b",
+    "bytes": 9994
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s43/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s43/epochs.jsonl",
+    "sha256": "40bc5b75454219469b61e508979a81c015bed7340e7b4ed8539deddebfb38fd1",
+    "bytes": 15299
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s43/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s43/training_complete.json",
+    "sha256": "4e5225353cf754a4b0e3e8b30bb545197f20fd61338ab230d98b43776aecbd9c",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s44/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s44/calibration.json",
+    "sha256": "4f926f25d82b573033c6802834dd136af1e9ba27a3547a37c813ecf23181cd22",
+    "bytes": 2709
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s44/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s44/config.json",
+    "sha256": "c211add511a31736c5ab2feb04ec64a19ffd1674ef245c0fbb870e023df4d60d",
+    "bytes": 580
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "df49dd5e51b188b6172928c5e0e10337cf8e2ef86fdadff36bcc41da6f5ade49",
+    "bytes": 1498
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s44/diagnostics/metrics.csv",
+    "sha256": "e2194d9816b53a242a8dadaabf5ed8f36754974609956b9ae9d3da0720627032",
+    "bytes": 10064
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s44/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s44/epochs.jsonl",
+    "sha256": "6af5061eda2cacda80e27d027941d4c4bf3a6d484a5057f119a4a484341fa7f8",
+    "bytes": 13631
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/mean_s44/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/mean_s44/training_complete.json",
+    "sha256": "3af9c146ebc9ff292e5df3949376b51ec839b8f68219ca895c3f757f0b8341f2",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s42/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s42/calibration.json",
+    "sha256": "03c7a72ce20f8e8c81563fd0e7005e6df7ca9e86a4c352156664a27fefb4e0f7",
+    "bytes": 2716
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s42/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s42/config.json",
+    "sha256": "b31cb80b6c026727e972bb6153712c322e74fad45bfd8b752425e0be63f49870",
+    "bytes": 579
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s42/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s42/diagnostics/diagnostic_complete.json",
+    "sha256": "c42f23f223078b6d5b8539f754861a7d022b6432756c53a8162ab2b609fd08ef",
+    "bytes": 1503
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s42/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s42/diagnostics/metrics.csv",
+    "sha256": "fdc677085525816b7de0319b8a49eb9a0cce42b2e297c1082b6560d477097591",
+    "bytes": 9474
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s42/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s42/epochs.jsonl",
+    "sha256": "14222edb1c0729f7cb0e5ad30ea3bda996c0bc1bdc993d0c5e52f1cbb5e9f6d4",
+    "bytes": 13448
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s42/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s42/training_complete.json",
+    "sha256": "3218207777794d394b03378eca58ba3b650f640bf3e5ad99e20d245ff43e4005",
+    "bytes": 183
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s43/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s43/calibration.json",
+    "sha256": "4b35ad2c9791c4b5b8fa264ef2194dc4f768dfa2515e287f80c87860e23f948b",
+    "bytes": 2685
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s43/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s43/config.json",
+    "sha256": "57892fa960e682a29ac1dfffe167e32d873e878996f9550ac76470f1b4334b2f",
+    "bytes": 579
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s43/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s43/diagnostics/diagnostic_complete.json",
+    "sha256": "718d174f46e0baf60786bcfa472380237d38e45236369744a76ba9777dd3295d",
+    "bytes": 1503
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s43/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s43/diagnostics/metrics.csv",
+    "sha256": "242f657422d5e88c88a2bb5640e6a83b64c19dca421e021ec3fcc978c63118b1",
+    "bytes": 9488
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s43/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s43/epochs.jsonl",
+    "sha256": "521ce72f4e5a0c44a1b5c04a26f2e76b86ada12323f2c9d105ccb4844722ea5f",
+    "bytes": 10157
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s43/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s43/training_complete.json",
+    "sha256": "718f68c0f30476f90a81108e651be80d1e2c6fccb720a0788f5bf39c188f359b",
+    "bytes": 182
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s44/calibration.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s44/calibration.json",
+    "sha256": "e0eb61aa340aae331b86962d214466ae0f1e140b1da6a6fdc6e0222f92da9b3e",
+    "bytes": 2679
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s44/config.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s44/config.json",
+    "sha256": "1949c525faa85f423bc68abd48f1a6b3c63bfaa0c63aec4f1ccc0147a18036ad",
+    "bytes": 579
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s44/diagnostics/diagnostic_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s44/diagnostics/diagnostic_complete.json",
+    "sha256": "a71dd0f369c6511419da9c43db3abd97ad64f4129ce75b52f59c5ec12ba676c3",
+    "bytes": 1502
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s44/diagnostics/metrics.csv",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s44/diagnostics/metrics.csv",
+    "sha256": "c431a4db80a2ccd7143946d401f2efb59a3b86126761dac4e7472ad7a6ea246e",
+    "bytes": 9487
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s44/epochs.jsonl",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s44/epochs.jsonl",
+    "sha256": "2e1790950225d34ba1cd4f1a133652d25e542c4e836de7977a04574074f400cf",
+    "bytes": 18588
+  },
+  {
+    "path": "results/phase1/mosi_v1/runs/text_only_s44/training_complete.json",
+    "origin": "phase1_results/final/mosi_v1/runs/text_only_s44/training_complete.json",
+    "sha256": "a1c38259817f6d9c9e892848a07951c77d284f17d2977ba041c9b94bd20dd730",
+    "bytes": 184
+  },
+  {
+    "path": "results/phase1/analysis/analysis.json",
+    "origin": "phase1_results/analysis/analysis.json",
+    "sha256": "1e44eb4963e9122815776accebb8b7ee5beed8eb51144a4e2bf3c29e340c5a3a",
+    "bytes": 30313
+  },
+  {
+    "path": "results/phase1/analysis/summary.csv",
+    "origin": "phase1_results/analysis/summary.csv",
+    "sha256": "8ac8cc76b44049b8bd1fd317aba4a26cc50297968d225e77d8263ec78446e4e8",
+    "bytes": 5168
+  },
+  {
+    "path": "results/phase1/contest_pilot_summary.csv",
+    "origin": "phase1_results/final/contest_pilot_summary.csv",
+    "sha256": "e4b7c9dc4467071e481709bf97b07a18a9e2e3b234962d90d81b18bcdede8936",
+    "bytes": 7269
+  },
+  {
+    "path": "results/phase1/mosi_pilot_summary.csv",
+    "origin": "phase1_results/final/mosi_pilot_summary.csv",
+    "sha256": "f73c1277893a2fa92683ebe99258a3cc3bd21dc6f8bff14be5a24745d92c189d",
+    "bytes": 7129
+  },
+  {
+    "path": "docs/phase1-findings.md",
+    "origin": "phase1 report, operational section omitted",
+    "sha256": "565b68fbf583fa40be0b177e089c13b085f06ff1bc7b301f9d13db7d93f0b02f",
+    "bytes": 10768
+  },
+  {
+    "path": "docs/competition-paper.pdf",
+    "origin": "专硕组_复杂场景下多模态情感识别的数学建模与算法设计.pdf",
+    "sha256": "0aaab35fed42eaf846643f2c1928734666e91ee1a64013c1117e83c886a2c8e2",
+    "bytes": 5605315
+  }
+]

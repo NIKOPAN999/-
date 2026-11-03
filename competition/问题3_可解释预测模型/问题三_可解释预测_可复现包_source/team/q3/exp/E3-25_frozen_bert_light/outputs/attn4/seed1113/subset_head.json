@@ -1,0 +1,37 @@
+{
+  "seed": 1113,
+  "pool": "attn4",
+  "selected": {
+    "weight": 0.5,
+    "epoch": 4,
+    "valid_full_MAE": 0.5544115304946899,
+    "valid_missing_MAE": 0.6787703633308411,
+    "score": 0.7241041213274002
+  },
+  "candidates": [
+    {
+      "weight": 0.1,
+      "epoch": 2,
+      "valid_full_MAE": 0.5548937320709229,
+      "valid_missing_MAE": 0.6789068579673767,
+      "score": 0.724620446562767
+    },
+    {
+      "weight": 0.25,
+      "epoch": 2,
+      "valid_full_MAE": 0.5545129776000977,
+      "valid_missing_MAE": 0.6801910400390625,
+      "score": 0.7245607376098633
+    },
+    {
+      "weight": 0.5,
+      "epoch": 4,
+      "valid_full_MAE": 0.5544115304946899,
+      "valid_missing_MAE": 0.6787703633308411,
+      "score": 0.7241041213274002
+    }
+  ],
+  "original_head_valid_full_MAE": 0.5576982498168945,
+  "original_head_valid_missing_MAE": 0.6971424221992493,
+  "fp16_head_max_abs_pred_diff": 0.0001306980848312378
+}

@@ -1,0 +1,10 @@
+{
+  "torch": "2.8.0+cu128",
+  "numpy": "2.3.2",
+  "sklearn": "1.9.1",
+  "transformers": "4.57.6",
+  "cuda": "12.8",
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "data": "/root/autodl-tmp/team/shared/baselines/data/mosei_att2_aligned50.pkl",
+  "data_bytes": 885241887
+}

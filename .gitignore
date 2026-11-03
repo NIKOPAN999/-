@@ -1,0 +1,44 @@
+# Local data, pretrained models and trained weights
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.tar.gz
+*.part
+data/
+datasets/
+assets/
+checkpoints/
+checkpoint_deltas/
+verified_checkpoint_deltas/
+# Environments and generated caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+# Credentials and machine-specific state
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+BACKUP_ACK.json
+overnight_state.json
+shutdown*.json
+final_completion.json
+# Detailed validation predictions remain in the local research archive
+results/**/samples.csv
+

@@ -1,0 +1,502 @@
+{
+ "README.md": {
+  "bytes": 7202,
+  "sha256": "5f917d3c806902e32c1e4c82f9901aea6de385a75129c97cef1d191f264c980d"
+ },
+ "results/attachment4_predictions_explanations.csv": {
+  "bytes": 7368,
+  "sha256": "e68299cd5ef09d81b4b4f25deafddc0f224df3c6f6626fc06084dc2c880c9f1e"
+ },
+ "results/q3_numbers.json": {
+  "bytes": 33584,
+  "sha256": "cb97ff7809508bc313bf1fe9876d31c475d0e63261918ba7e9aa0a3b0e91e503"
+ },
+ "team/q1/exp/Q1-3_att4_word_times/tables/att4_word_times.csv": {
+  "bytes": 39359,
+  "sha256": "361c7c11c98b6abccc4f9b5ad4466a3877700a91bfbff1d5b0e51b30cbdd5ab3"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/code/attribution.py": {
+  "bytes": 15012,
+  "sha256": "434ea2fd79852b15d053b4a54a8a340ce6a06863b6cf9704b32645cf6a457469"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/code/light_common.py": {
+  "bytes": 6969,
+  "sha256": "413bf243c5638d9a2a9eaed47a7677ea85b83eb1b58cd118389898558d39664c"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/code/parse_log.py": {
+  "bytes": 754,
+  "sha256": "88b4cf6fd785d59bc162a836eca6385c0799d5277a2d0973cf2a860c7da31de5"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/code/run_chain.sh": {
+  "bytes": 411,
+  "sha256": "09d036428ea613d11507bfa34885caa23b7d91654622603c665f6f65aab282a4"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/code/subset_head.py": {
+  "bytes": 10179,
+  "sha256": "0a753dbb9e2cf6011bede6eb4fcbcef69440a4a44367b7f305b9a7b9215a03e3"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/code/train_light.py": {
+  "bytes": 2336,
+  "sha256": "99afa07bac2bfc0e733f832fe253c3e87eaf38d58e08b739c7a919d6e2cc4bbd"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/compact.pt": {
+  "bytes": 677617,
+  "sha256": "2a972731f3e4b255c4fc4592e1538a4428072638925725569af0620bcdd038db"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/compact_info.json": {
+  "bytes": 133,
+  "sha256": "32fda18599047ab3762da4b75193efab172123c9ca55daa0bc006fc1b6c8462e"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/override.json": {
+  "bytes": 170,
+  "sha256": "bcad59437fe9c4ad5e570f5ac53886cd6117ddb5ed88516f2851ed56e69d9102"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/att4.csv": {
+  "bytes": 4767,
+  "sha256": "c0dfdd1b0608775b6cffa353b636267960c3c937d31544a72d9939ff4ba48642"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/test.csv": {
+  "bytes": 181137,
+  "sha256": "96f06b6a3fcaeb4d9026966b49fee1371433bf28f311da6e2ce9ee9d2f75bf1d"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/predictions/valid.csv": {
+  "bytes": 181784,
+  "sha256": "f30a12686b0e7b2882577554cef1e1ef675c420017ace18dd1433bda5049b13b"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/subset_head.json": {
+  "bytes": 933,
+  "sha256": "08d4602bdb2099cc540edad116e08d72663d0e95e67bdbd4e8817eb6f82ebd1e"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1111/subset_head_fp16.pt": {
+  "bytes": 245441,
+  "sha256": "96c0fbe2a6834841d1c524f0baa4584c99dae6450bd6485ee623cfe0523c66e7"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/compact.pt": {
+  "bytes": 677617,
+  "sha256": "938458142b8d8b7f9426ed950d043c70a23c4479e5e82250626265b2552a8265"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/compact_info.json": {
+  "bytes": 133,
+  "sha256": "a931d84ed04cc61486c60009d15f1b00106208a668630a8505ba992f84c418cd"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/override.json": {
+  "bytes": 170,
+  "sha256": "543348422160de82d990bb0b920b5898e0a3b8c26b03e0df89274f8bef0c7cc7"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/att4.csv": {
+  "bytes": 4841,
+  "sha256": "5913137622e6d4c00468c3c65f704fd454a29a3f788399d3d4946d007cf51b7a"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/test.csv": {
+  "bytes": 183553,
+  "sha256": "da1a5d73fcc4b9bbe2307097b077d3fdd871a9e6449a9db73a710bfe86a11e74"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/predictions/valid.csv": {
+  "bytes": 184301,
+  "sha256": "28eaf52f36f1d2aa6116b9c32da91883c3e9d7eb10275cf364484905867dca90"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/subset_head.json": {
+  "bytes": 932,
+  "sha256": "8a9c76c2dd01fb8a10185ae875c2963d84c1a0df6c638565958d85f97dcb4b15"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1112/subset_head_fp16.pt": {
+  "bytes": 245441,
+  "sha256": "6f4c7dceb379662991b40fee5912dc28e10e6bf662d4e094ed2d72c5772dd867"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/compact.pt": {
+  "bytes": 677617,
+  "sha256": "a791af6ce43b3b8d2d473ae259377b87d14df4bc2c094970d1db2168a6104204"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/compact_info.json": {
+  "bytes": 133,
+  "sha256": "d784efbc46a85ced56c99e96b4ad241fd85612b38bcf0edf63cc2c949343f70c"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/override.json": {
+  "bytes": 170,
+  "sha256": "d6cbd91115bb39d7e3863c4d0dfa9a09a8da62c04cd6e5ceacf5e515c4f2fa85"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/att4.csv": {
+  "bytes": 4765,
+  "sha256": "135551e243828f13f2d399924bc70bda7f59d5cabf6ec79308a0de9f0dc36ad6"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/test.csv": {
+  "bytes": 181317,
+  "sha256": "3fdee1d6ba0b42a1667cdc2e6b9b9e911bc1edbc90f10ccdce4843fc3af74501"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/predictions/valid.csv": {
+  "bytes": 181958,
+  "sha256": "a5a185d108cd65ae184530b6088091653ef9681a7d810345d41e885b9d6c4dd2"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/subset_head.json": {
+  "bytes": 932,
+  "sha256": "3eed7d506343ff524eac491d21d1f0df06647f968c6e1de9e7cc72514dfdb38d"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/outputs/attn4/seed1113/subset_head_fp16.pt": {
+  "bytes": 245441,
+  "sha256": "5cda548c3d5a050e3dccde39a62ce30e49eff554e78c7a66f315c547df74ec33"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/tables/attn4/att4_evidence.csv": {
+  "bytes": 11321,
+  "sha256": "9c99c63d9dcab336ce0bf2fb3ba995a639d049249731598b13c52e0083df99e9"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/tables/attn4/att4_ig_positions.csv": {
+  "bytes": 88633,
+  "sha256": "6462957c878ac2cf3073ed657bc4e2cf7c9973243bd4d69e4e0539b5612fef73"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/tables/attn4/attribution_summary.json": {
+  "bytes": 5866,
+  "sha256": "743d1dd63e3a60e4d8b458aa7adae7d95a527679492a13f8404cc830f21c756e"
+ },
+ "team/q3/exp/E3-25_frozen_bert_light/tables/attn4/valid_deletion_100.csv": {
+  "bytes": 22107,
+  "sha256": "c64280ac80551817a90a8ad295ea661f973541ca10550a84a9a089d5c8acaa50"
+ },
+ "team/shared/baselines/common/convert_to_mmsa.py": {
+  "bytes": 9983,
+  "sha256": "4c473657161c9304655acd87c4556e2f335b9769004bb2c05e0f30edb9b6939a"
+ },
+ "team/shared/baselines/common/metrics.py": {
+  "bytes": 3286,
+  "sha256": "d0dca0323ef202d5d632ef83ea81100c87123662e2d811fae8fb7c0b758232a0"
+ },
+ "team/shared/baselines/common/missing.py": {
+  "bytes": 4231,
+  "sha256": "e5ed8a1c630c0ceae3af3d2e84e8cfdd8b14636410fba8ce4dd03c530545c0c4"
+ },
+ "team/shared/baselines/common/model_api.py": {
+  "bytes": 3430,
+  "sha256": "684671faeabd04edfb1c75d4de4ec03983bfa4ee76c1b46dd1e23699641f4928"
+ },
+ "team/shared/baselines/common/test_common.py": {
+  "bytes": 3127,
+  "sha256": "9a8c3c724cdf6e9776e833ce2e839c38828b6a73bc03e965f4334c82ffd8c157"
+ },
+ "team/shared/baselines/configs/mmsa/config_regression_att2.json": {
+  "bytes": 49469,
+  "sha256": "5a273bd2618ea65b394d1c5bbfa68345bbc82098cfcd7124fc255dd3f0244ec6"
+ },
+ "team/shared/baselines/repos/MMSA/.gitignore": {
+  "bytes": 143,
+  "sha256": "7491d673cd32892f4c247b81c347f330f51e43718142344fdc1d225e01c16b22"
+ },
+ "team/shared/baselines/repos/MMSA/LICENSE": {
+  "bytes": 1084,
+  "sha256": "371f229417327dcf044aba70d6f3a839e6bfce9adb88d6a3582ae9503e48dc94"
+ },
+ "team/shared/baselines/repos/MMSA/MANIFEST.in": {
+  "bytes": 40,
+  "sha256": "277a03e2cbe4978fab488198ef132bbfb1d1d0f222f86d3bf1633295a19eed80"
+ },
+ "team/shared/baselines/repos/MMSA/README.md": {
+  "bytes": 11096,
+  "sha256": "ea2204ef3426154fbe2691ca48ae5c619d6db45aa1e99bb3d45fc41e0d33f3cd"
+ },
+ "team/shared/baselines/repos/MMSA/pyproject.toml": {
+  "bytes": 108,
+  "sha256": "b300606bbda19a52b92b529ce93e65736e5d6cecadf133d6882a918b30de6dd7"
+ },
+ "team/shared/baselines/repos/MMSA/results/result-stat.md": {
+  "bytes": 6570,
+  "sha256": "df0f21ac9ee37e3fb79535e4746d0457009cc24452eccbd77650c9c374326783"
+ },
+ "team/shared/baselines/repos/MMSA/setup.cfg": {
+  "bytes": 1115,
+  "sha256": "83da6ba7b2ba7ecd97b6ebbae60ab6cd2062e82e0ba3e2cd1ad61e4fb44baac5"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/__init__.py": {
+  "bytes": 243,
+  "sha256": "ca03d87df47735b0e15d1e6adcfb2bffabf6d7c80f2118547304e32cd177cec7"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/__main__.py": {
+  "bytes": 3510,
+  "sha256": "9d83e6e7b2946bf52dacb921b037fd730365d6bb4d72b82caefad9beb95bb144"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/config.py": {
+  "bytes": 5402,
+  "sha256": "b91b1c1f4ee0eda65b91ef96ae1187f9370f5082b0239e3f32c4c49951219124"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/config/citations.json": {
+  "bytes": 6177,
+  "sha256": "f7798d28d6d6b1bf796098f157105b0e0262f673814b4c029b7d24e9ed9d2eb8"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/config/config_regression.json": {
+  "bytes": 46712,
+  "sha256": "5c862ccb674ad229e74ba36b9df5ee7d59513649d96e4c0ad56ef6ca567dabe6"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/config/config_tune.json": {
+  "bytes": 30288,
+  "sha256": "c93e265349abd5bcf3d2195237735e23602dfa6cdb5ce12e48e11cb23fb1557f"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/data_loader.py": {
+  "bytes": 11113,
+  "sha256": "1c0863c99d6acd5393aeebd87676b37a3d9fb5a6284dd98c1fb44ed18e33eac5"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/AMIO.py": {
+  "bytes": 2053,
+  "sha256": "2e019adf202d95fa637343a03396a70dea1ec8f9c589ad8238f3f7e029862846"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/__init__.py": {
+  "bytes": 22,
+  "sha256": "826e7af63eac49be9cdc9ec26beb1b27ef8e259fe81492a62c40fcd68bebdb4e"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/missingTask/TFR_NET/__init__.py": {
+  "bytes": 26,
+  "sha256": "10b20c20550b3f99bed13e96c3331f4137c88e1e25e0fbe8258b4e94c38f6e15"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/missingTask/TFR_NET/alignment.py": {
+  "bytes": 7284,
+  "sha256": "4d06ea36c2b3e26d00258a10e1b7bf65ff79d0a1ecaa8da17d97d9d02cddd58d"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/missingTask/TFR_NET/fusion.py": {
+  "bytes": 5334,
+  "sha256": "073242b0609ae2567d0bbce7434b5c7658fd01608afdbdc1beff69cc47050755"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/missingTask/TFR_NET/generator.py": {
+  "bytes": 1611,
+  "sha256": "03e6236b465b04e182a835b729526f3782b78f818f0b182ef686455b3c3fe1b9"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/missingTask/TFR_NET/model.py": {
+  "bytes": 4509,
+  "sha256": "6cb384dfd2283495e92b9fdb6eced63dfb1561f0c3f542fc4650d30dc2a7a10b"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/missingTask/__init__.py": {
+  "bytes": 28,
+  "sha256": "ebe026f0fedf859e21162942e8628d4f4fea63925761f2792c9250938c462ef9"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/multiTask/MLF_DNN.py": {
+  "bytes": 6739,
+  "sha256": "b12343f130a3638a17bae6a14b31353f41fd30091f79df34a16ee4c0cae074a7"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/multiTask/MLMF.py": {
+  "bytes": 9351,
+  "sha256": "0b7ee4682e5ce82cb9b61506a87b05d7d649ca2ec8e16b4f9184a815d79af11c"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/multiTask/MTFN.py": {
+  "bytes": 9907,
+  "sha256": "234c002df946e4f875d62d252dbe3e79fa9747fcd4087ba8343b71b637f884c0"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/multiTask/SELF_MM.py": {
+  "bytes": 5962,
+  "sha256": "995c379326922c2f6f2b252e124b4fc6b911de815ba816d597cf79b9c03c7579"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/multiTask/TETFN.py": {
+  "bytes": 11201,
+  "sha256": "6fff7fa595dba924363c3205501b6c85dadb7a2f8ad2827bb8435b3bc721863e"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/multiTask/__init__.py": {
+  "bytes": 132,
+  "sha256": "479933906a9e8fa9a94fefeb0dd0b250aa02ae9354f0c9ef3b376b964d270452"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/ALMT.py": {
+  "bytes": 14569,
+  "sha256": "2df09cd890dda4297e76a96e1eed666f6767a437793811a1ded58a03fd13eb8f"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/BERT_MAG.py": {
+  "bytes": 14381,
+  "sha256": "17fef2f8677230bc8efdaf7d19639f12199c5148e947e681e44cd2a03ec14b78"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/CENET.py": {
+  "bytes": 23295,
+  "sha256": "6e89162af75e648ed3766939534efe3a326536e47826a3229bafbc8013dea919"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/EF_LSTM.py": {
+  "bytes": 1799,
+  "sha256": "4057dff6129861af8d575bbaa72c8fbfadfd1d3482a4c5b209d784bb0e6787d3"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/Graph_MFN.py": {
+  "bytes": 14139,
+  "sha256": "74fda9d9cdf696fb280637b0ed08bb5967de2acf901a3a5854e7b37b4d510899"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/LF_DNN.py": {
+  "bytes": 2419,
+  "sha256": "fba8456f884289db35f7babb866df657eff04a9b23ccd1a181354de56f618d73"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/LMF.py": {
+  "bytes": 4857,
+  "sha256": "01ef72176e94326dc6999800cfc7a09f16ce3eba8eb7531905be68f35ae3eeeb"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/MCTN.py": {
+  "bytes": 8221,
+  "sha256": "6f710d605d28024c000ab60ba864cd7c2b4926cc8d5781bb845a72b4af303260"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/MFM.py": {
+  "bytes": 7751,
+  "sha256": "685ab30b106e3b6a779ba4f2cd4d85b04d5e85c37ad504f8064a329fad8a3a20"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/MFN.py": {
+  "bytes": 5491,
+  "sha256": "900c01422813cb67a7e3de326cacd4696a6f5e472fbe6acf4948e7ca09fa1e7b"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/MISA.py": {
+  "bytes": 12880,
+  "sha256": "d95372b43a5248779d21a6ce50aaad813cc7f64058561c8793f0b0137cf71852"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/MMIM.py": {
+  "bytes": 13545,
+  "sha256": "a2d28476cd06dc34efb709cf7dda33026b6f68871b780d86074387e5948ee71e"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/MULT.py": {
+  "bytes": 6849,
+  "sha256": "baa5ebaefe5bf0c3b7043aa49c5b80e1f6b7f5ac46185fd6f2152d5af2a6d034"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/TFN.py": {
+  "bytes": 5360,
+  "sha256": "2812d22f087d36775887c2737d117b5c6e9fa270a28459aa527bb8c0909199e5"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/singleTask/__init__.py": {
+  "bytes": 356,
+  "sha256": "5cf2cc29fe62d98ef5bc5ba80361df403fbcde09f9f9b39ed18a2a2df172ab28"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/AlignNets.py": {
+  "bytes": 5164,
+  "sha256": "2bd7554fbfa1350006baef1c70ddf40010c3e8db0c0e753f1002d316f6605ae3"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/BertTextEncoder.py": {
+  "bytes": 2088,
+  "sha256": "78a63fdde3fade531baacbd97712f4e4cfe748b7fc8a7b376e8dd88b59f0854f"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/FeatureNets.py": {
+  "bytes": 2578,
+  "sha256": "bbbab77d205432109ae250cb3b0c105d048a04f117f7a2b10a4e04c7a23fb42b"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/__init__.py": {
+  "bytes": 127,
+  "sha256": "8b79d5fb2f73afa080e1825788d34dabd72bc3bb03ed740e7d571906f69cce11"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/transformers_encoder/__init__.py": {
+  "bytes": 0,
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/transformers_encoder/multihead_attention.py": {
+  "bytes": 6353,
+  "sha256": "091de2d07af7fc4e780f380483741c5c2f21032c2585ad2ec1534059341f54b8"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/transformers_encoder/position_embedding.py": {
+  "bytes": 3761,
+  "sha256": "eab898c565eb9164241a303b78e30f2fd46a5a6e4bba418c7901cde10bae16c4"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/models/subNets/transformers_encoder/transformer.py": {
+  "bytes": 8556,
+  "sha256": "275248284b31e08500a6ca06141319f683162c483e32ad13c0dfab49b64f513c"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/run.py": {
+  "bytes": 32197,
+  "sha256": "002825350c8f5bdc4390aa9a8f0f08687b232dc6bfa28713b3d4f2c064951871"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/ATIO.py": {
+  "bytes": 976,
+  "sha256": "349e4cf9cb32ac2586890341e5f9f4a191577b333244eb300ad11463ff7f2e7f"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/__init__.py": {
+  "bytes": 22,
+  "sha256": "9b6357727720b9735610e1595fca90f3ebd7d6c27774889ecad4347f8f321bf4"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/missingTask/TFR_NET.py": {
+  "bytes": 9116,
+  "sha256": "c8c459d52b0fba992810ed862662cd8626bd4727c1442a1c17ad8a8438c645c3"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/missingTask/__init__.py": {
+  "bytes": 28,
+  "sha256": "ebe026f0fedf859e21162942e8628d4f4fea63925761f2792c9250938c462ef9"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/multiTask/MLF_DNN.py": {
+  "bytes": 8040,
+  "sha256": "4f447fc9bca556b1deb74286514efcdb54661aec69f8aa71b57e0591b0bfca09"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/multiTask/MLMF.py": {
+  "bytes": 8236,
+  "sha256": "cf8e7b1a4c50bbcce3a4d588cb938a1adf7159736093bd169f0d591532a56428"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/multiTask/MTFN.py": {
+  "bytes": 8088,
+  "sha256": "6b067ab4d6bd8d656d32ee29f5c3ce3d5da0c1a57d375a56ac994c357b394bf1"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/multiTask/SELF_MM.py": {
+  "bytes": 16172,
+  "sha256": "c3aa83620ecb95d56241c9ba306aa468337e0e0b9ec096de1744f2e3d9126d8e"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/multiTask/TETFN.py": {
+  "bytes": 16383,
+  "sha256": "9492abcdec1945f9f0df163dca803fc5ff7bde3f0ee4f310cc1b719093984293"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/multiTask/__init__.py": {
+  "bytes": 134,
+  "sha256": "f3f53662875b93fb68b61c25215cc4226f5750a2b3926aaaaae6f8a408268997"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/ALMT.py": {
+  "bytes": 8785,
+  "sha256": "a2b1ae66420bdd867c5b3d1af7ad44d1256fbf6f14c24b7da278be606bc254ca"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/BERT_MAG.py": {
+  "bytes": 6502,
+  "sha256": "7f933e2cbb806eddce87b5739114529aa89810dd81deb048fb773c372f7f1a50"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/CENET.py": {
+  "bytes": 6056,
+  "sha256": "15729ec267d78ab707797c171397727c7e0788a84087f36820a1365368dd2807"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/EF_LSTM.py": {
+  "bytes": 6501,
+  "sha256": "bcf284538a5a804b223721f4f789cf1cd39311c20d5db296cb162e1ef8d5b29f"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/Graph_MFN.py": {
+  "bytes": 6473,
+  "sha256": "8065547adf05ff6f7905d0522b1c7c8f3f7c96e54d0bbf8440592933a12fb0f1"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/LF_DNN.py": {
+  "bytes": 6466,
+  "sha256": "41c54954a3d5f055d4ec16baaac8cf8ccbed33a33ee0a02db9a245b6e4e2bbde"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/LMF.py": {
+  "bytes": 6625,
+  "sha256": "8eabeab3a253f544381541a4edbdf356172b43ae35b5de3a335379b2d7636960"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/MCTN.py": {
+  "bytes": 5205,
+  "sha256": "bcb5121020478e227afc38fbba982a9920ea8dfc67a8ef9b6259b23c6a8aa372"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/MFM.py": {
+  "bytes": 6107,
+  "sha256": "82c20be572bb559f0b1328200f65512fe309ffaf907815d260bdd76dfe74b180"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/MFN.py": {
+  "bytes": 6529,
+  "sha256": "3cab58560523e4ba95d28bf4456854d62ab64546f12292e1123df25a503d6e76"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/MISA.py": {
+  "bytes": 12689,
+  "sha256": "894a11302e81079299c9ec7bd4d5a00bb445e9b2194ee4ea3be457f452180191"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/MMIM.py": {
+  "bytes": 10923,
+  "sha256": "2a93f417cd39d01bc4d025619e069a7244bd8c03e44e8728d7b0419b463399da"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/MULT.py": {
+  "bytes": 7088,
+  "sha256": "d6ebeca0a715954ee8073fc41a6373954f28ca3e320456251150613b9f58ba87"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/TFN.py": {
+  "bytes": 6433,
+  "sha256": "b6f4d50e7924bb85e5e4eae675131bdcbaa955fb3954c59a11c5502be465198a"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/trains/singleTask/__init__.py": {
+  "bytes": 356,
+  "sha256": "5cf2cc29fe62d98ef5bc5ba80361df403fbcde09f9f9b39ed18a2a2df172ab28"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/utils/__init__.py": {
+  "bytes": 112,
+  "sha256": "2b0907de308aec09cc81517c11727f93c85ef4c37ca58c5c5bdb42d50b13ff87"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/utils/functions.py": {
+  "bytes": 1570,
+  "sha256": "c0f1a66a37468d6b924f14b8a1a21b68e5e90caef62d9f5d54c427f94990df71"
+ },
+ "team/shared/baselines/repos/MMSA/src/MMSA/utils/metricsTop.py": {
+  "bytes": 7875,
+  "sha256": "a44f4d1c6641c589025952b6b7b695dc690e538e8ff7a13b3b737cbf2feb5bf5"
+ },
+ "tools/q3_analysis.py": {
+  "bytes": 28727,
+  "sha256": "741612e257d5dabb940c4eafce816e61da5d7ad5a71684d5663c36aaab471677"
+ }
+}

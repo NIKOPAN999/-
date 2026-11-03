@@ -1,0 +1,10 @@
+{
+  "seed": 1112,
+  "pool": "attn4",
+  "override": {
+    "need_data_aligned": true,
+    "use_bert": true,
+    "use_finetune": false,
+    "learning_rate_bert": 0.001
+  }
+}

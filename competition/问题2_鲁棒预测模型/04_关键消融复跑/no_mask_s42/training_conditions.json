@@ -1,0 +1,40 @@
+{
+  "paper": "Self-MM, AAAI 2021, arXiv:2102.04830",
+  "adaptation": "aligned feature interface, local gap augmentation, three-class head, valid-only calibration",
+  "train_samples": 3395,
+  "valid_samples": 728,
+  "test_samples": 727,
+  "training_split": "attachment-2 train only",
+  "normalization": "audio/vision observed train positions only",
+  "pseudo_labels": "ULGM feature centers and momentum on train only; neutral excluded from pos/neg centers",
+  "checkpoint_and_calibration": "attachment-2 valid only",
+  "test": "one final evaluation after compact checkpoint and calibration fixed",
+  "attachment3": "aligned version, unlabeled final inference only",
+  "metrics": [
+    "accuracy",
+    "macro_f1",
+    "mae",
+    "pearson"
+  ],
+  "config": {
+    "seed": 42,
+    "batch_size": 8,
+    "epochs": 20,
+    "patience": 4,
+    "hidden": 128,
+    "dropout": 0.25,
+    "freeze_bert_layers": 8,
+    "bert_lr": 1e-05,
+    "lr": 0.0002,
+    "weight_decay": 0.01,
+    "classification_weight": 0.8,
+    "regression_weight": 1.0,
+    "auxiliary_weight": 0.4,
+    "neutral_class_weight": 1.15,
+    "mask_probability": 0.0,
+    "text_bias": 0.6,
+    "max_mask_ratio": 0.6,
+    "triple_probability": 0.2,
+    "bert_name": "/root/autodl-tmp/team/shared/baselines/pretrained/bert-base-uncased"
+  }
+}

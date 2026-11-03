@@ -1,0 +1,10 @@
+{
+  "torch": "2.3.0+cu121",
+  "numpy": "1.26.4",
+  "sklearn": "1.5.2",
+  "transformers": "4.44.2",
+  "cuda": "12.1",
+  "gpu": "NVIDIA vGPU-32GB",
+  "data": "/root/autodl-tmp/E题/E题数据/附件2-数据集特征文件/aligned_50.pkl",
+  "data_bytes": 993842861
+}
